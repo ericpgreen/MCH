@@ -178,8 +178,8 @@ Via Delicious:
 M Jan 13, [Class 1](#class1), Introduction
 <table>
   <tr>
-    <td colspan="2">**Maternal Health**</td>
-    <td colspan="2">**Child Health**</td>
+    <td colspan="2"><b>Maternal Health</b></td>
+    <td colspan="2"><b>Child Health</b></td>
   </tr>
   <tr>
     <td>M Jan 20</td>
