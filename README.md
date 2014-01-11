@@ -2,6 +2,7 @@ Introduction to Global Maternal and Child Health
 ================================================
 
 **Duke University, Spring 2014**
+printable version [here](https://github.com/ericpgreen/MCH/raw/master/printable%20version.pdf)
 
 **Course Code:** | GLHLTH 571-01
 |:--- | :--- |
