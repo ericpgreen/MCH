@@ -176,6 +176,7 @@ Via Delicious:
 # CLASS SCHEDULE
 
 M Jan 13, [Class 1](#class1), Introduction
+
 <table>
   <tr>
     <td colspan="2"><b>Maternal Health</b></td>
@@ -189,37 +190,37 @@ M Jan 13, [Class 1](#class1), Introduction
   </tr>
   <tr>
   <td>M Jan 27</td>
-    <td>[Class 2](#class2)</td>
+    <td><a href="#class2">Class 2</a></td>
     <td>M Mar 17</td>
-    <td>[Class 8](#class8)</td>
+    <td><a href="#class8">Class 8</a></td>
   </tr>
   <tr>
   <td>M Feb 3</td>
-    <td>[Class 3](#class3)</td>
+    <td><a href="#class3">Class 3</a></td>
     <td>M Mar 24</td>
-    <td>[Class 9](#class9)</td>
+    <td><a href="#class9">Class 9</a></td>
   </tr>
   <tr>
    <td>M Feb 10</td>
-    <td>[Class 4](#class4)</td>
+    <td><a href="#class4">Class 4</a></td>
     <td>M Mar 31</td>
-    <td>[Class 10](#class10)</td>
+    <td><a href="#class10">Class 10</a></td>
   </tr>
   <tr>
   <td>M Feb 17</td>
-    <td>[Class 5](#class5)</td>
+    <td><a href="#class5">Class 5</a></td>
     <td>M Apr 7</td>
-    <td>[Class 11](#class11)</td>
+    <td><a href="#class11">Class 11</a></td>
   </tr>
   <tr>
   <td>M Feb 24</td>
-    <td>[Class 6](#class6)</td>
+    <td><a href="#class6">Class 6</a></td>
     <td>M Apr 14</td>
-    <td>[Class 12](#class12)</td>
+    <td><a href="#class12">Class 12</a></td>
   </tr>
   <tr>
     <td>M Mar 3</td>
-    <td>[Class 7](#class7)</td>
+    <td><a href="#class7">Class 7</a></td>
     <td></td>
     <td></td>
   </tr>
