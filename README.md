@@ -4,7 +4,7 @@ Introduction to Global Maternal and Child Health
 **Duke University, Spring 2014**
 
 **Course Code:** | GLHLTH 571-01
-:--- | :---
+|:--- | :--- |
 **Instructor:** | Eric Green, Ph.D.
 **Contact:** | [eric.green@duke.edu](mailto:eric.green@duke.edu) / 919-666-7111 (phone/sms) / @ericpgreen / Skype: epgreen
 **Web:** | [Facebook](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fdukemch%2F&sa=D&sntz=1&usg=AFQjCNFBYY6I1hWkfWFuTw8grkn4B286Jw) (private) / [Google Drive](https://drive.google.com/folderview?id=0Bxn_jkXZ1lxueHJud1hqX1lJMUE&usp=sharing) (private)
@@ -52,11 +52,11 @@ Students should abide by the[ Duke Community Standard](http://studentaffairs.duk
 The grading scale for this course is as follows:
 
 A+: 100-98 | A: 97-93 | A-: 92-90  
-:--- | :--- | :---
+| :--- | :--- | :--- |
 B+: 89-87 | B: 86-83 | B-: 82-80
 C+: 79-77 | C: 76-73 | C-: 72-70  
 D+: 69-67 | D: 66-63 | D-: 62-60  
-F: 59 and below | |
+F: 59 and below | | |
 
 ## Final Grade
 
