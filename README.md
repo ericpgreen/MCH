@@ -237,7 +237,7 @@ None. Consider reviewing [primers](#primers).
 
 ## <a name="class2">Class 2: Maternal Mortality</a>
 
-### Session 1: Data and measurement
+### Session 2a: Data and measurement
 
 _It’s been said that we only try to fix what we can count. So what counts as maternal mortality, and where do the data come from? And what happens when countries do not have any data?_
 
@@ -259,7 +259,7 @@ Loudon, I. (2000). Maternal mortality in the past and its relevance to developin
 
 2. Find the original data source.
 
-### Session 2: The who, when, where, and why of maternal mortality
+### Session 2b: The who, when, where, and why of maternal mortality
 
 *In this session we will move beyond country-level mortality statistics to understand who is most likely to die, the timing of maternal deaths, and where and why these deaths occur. You should come away with a sense that too many women are still dying from preventable causes, even if the situation is improving in many parts of the world.*
 
@@ -279,7 +279,7 @@ It’s November 1933. FDR has only been in office for a few months, and the coun
 
 ## <a name="class3">Class 3: Preventing Maternal Mortality</a>
 
-### Session 3: What works?
+### Session 3a: What works?
 
 *For the most part, we know why women die in childbirth. In this session we’ll learn about evidence-based maternal health and what works to prevent maternal deaths.*
 
@@ -295,7 +295,7 @@ IHME (2010). Building Momentum: Global Progress Toward Reducing Maternal and Chi
 
 [Saving Mothers’ Lives in Sri Lanka](http://www.cgdev.org/doc/millions/MS_case_6.pdf). Levine, R. (2007). Case Studies in Global Health: Millions Saved. Washington: Center for Global Development.
 
-### Session 4: Health systems and implementation challenges
+### Session 3b: Health systems and implementation challenges
 
 *But just because we know what works, it does not mean that it’s easy to turn this knowledge into action. We’ll talk about the challenges of "scaling up" efficacious programs, and we will learn about the health systems in which these programs are embedded. We’ll also consider cost-effectiveness and the hard choices facing policy makers.*
 
@@ -315,7 +315,7 @@ Prior to class, [install Spectrum](http://www.jhsph.edu/departments/internationa
 
 ## <a name="class4">Class 4: Pregnancy</a>
 
-### Session 5: Antenatal Care
+### Session 4a: Antenatal Care
 
 *Is antenatal care effective? What is the optimal number of ANC visits? In this session we will discuss the results of an influential multi-center randomized trial of the standard ANC model at the time vs "focused ANC" and follow the research trail through the oughts.*
 
@@ -331,7 +331,7 @@ Vogel, J. P. et al. (2013). Antenatal care packages with reduced visits and peri
 
 Imagine that you are an ambitious member of the newly formed American Medical Association living in the Antebellum South. You have decided to organize a professional meeting about antenatal care issues among slaves. You need to line up a keynote speaker and organize five additional talks on current (at the time) research and practice. Please create presentation titles and 80 word summaries for the keynote and five talks. Include in the schedule one "progressive" speaker who might challenge the establishment. The chapter on pregnancy ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuWF9Bem9KZlNjSG8/edit?usp=sharing)) in *Birthing a Slave* by Schwartz, M. J. (2006) will get you started.
 
-### Session 6: Diseases during pregnancy
+### Session 4b: Diseases during pregnancy
 
 *Diseases like HIV, TB, and malaria contribute to indirect maternal deaths. In this session we will survey recent literature on how these diseases affect pregnant women in low-income countries.*
 
@@ -349,7 +349,7 @@ Sullivan, E. et al. (2011). Botswana's Program in Preventing Mother-to-Child HIV
 
 ## <a name="class5">Class 5: Childbirth</a>
 
-### Session 7: Childbirth
+### Session 5a: Childbirth
 
 *The majority of maternal deaths are caused by direct obstetric complications that are hard to predict and require life-saving treatment. Having access to emergency obstetric care can mean the difference between life and death when there are complications. That said, most women do not have complications and do not want to deliver at a facility where the quality of care may be questionable (**[prime exampl*e](http://www.youtube.com/watch?v=Pev4r1C16-0)*). In this session we will review the evidence for emergency obstetric care and consider the reasons why facility deliveries are not common in all places.*
 
@@ -365,7 +365,7 @@ Kruk, M. E., Paczkowski, M., Mbaruku, G., de Pinho, H., & Galea, S. (2009). Wome
 
 In 2011, USAID and partners launched the first "grand challenge" for maternal and child health called “[Saving Lives at Birth](http://savinglivesatbirth.net/)”.  The same year, the WHO Innovation Working Group published a thematic report on maternal and child health innovation entitled “[Innovating for Every Woman, Every Child](http://www.who.int/pmnch/activities/jointactionplan/innovation_report_lowres_20110830.pdf)”. Since then, a number of great resources for MCH innovation have been developed, including the [Center for Health Market Innovations](http://healthmarketinnovations.org/) and [Maternova](http://maternova.net/). Peruse resources like these and identify one promising safe motherhood innovation to share with the class.
 
-### Session 8: Maternal health financing
+### Session 5b: Maternal health financing
 
 *Is money what is stopping women from using maternal health services? Should health systems abolish fees for maternity care? Should this care be subsidized? In this session, we will consider the impact of user fees and demand-side interventions on the use of maternal health services.*
 
@@ -383,7 +383,7 @@ In 2013, Kenya abolished fees for maternity care. How could we study the impact 
 
 ## <a name="class6">Class 6: Reproductive Health</a>
 
-### Session 9: Population Growth
+### Session 6a: Population Growth
 
 *The world population surpassed 7 billion in 2011. Where are we headed and what are the implications? Can we do anything to change course?*
 
@@ -399,7 +399,7 @@ Banerjee, A. V. & Duflo, E. (2012). Poor Economics. A Radical Rethinking of the 
 
 Prior to class, download and install [R](http://lib.stat.cmu.edu/R/CRAN/) and [RStudio](http://www.rstudio.com/) on your computer, in that order.
 
-### Session 10: Family Planning
+### Session 6b: Family Planning
 
 *Do family planning programs improve health outcomes and slow population growth? And what is "unmet need" for family planning? In this session we will review the evidence for family planning programs and discuss recent developments to advance “preconception care”.*
 
