@@ -136,7 +136,7 @@ No phone calls, texting, instant messaging, or emailing during class. We will ta
 
 # RESOURCES
 
-## <a name="primers">Primers</a>
+## <a name="primers">Primers (not required)</a>
 
 ### Maternal and Child Health
 
