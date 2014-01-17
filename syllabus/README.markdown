@@ -7,4 +7,4 @@ Compile
 
 3. Using the command line, `cd` into your local repository. For me, this commmand would be `cd /Users/ericpgreen/Dropbox/Repositories/github/courses/mch/syllabus`
 
-4. Run the following command to compile: working on this...
+4. Run the following command to compile: `pandoc -o ../README.md *.md`...still working out some formatting problems
