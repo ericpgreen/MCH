@@ -3,146 +3,187 @@ Introduction to Global Maternal and Child Health
 
 **Duke University, Spring 2014**
 
-printable version [here](https://github.com/ericpgreen/MCH/raw/master/printable-version.pdf)
+printable version [here](https://github.com/ericpgreen/MCH/raw/master/printable%20version.pdf)
 
-**Course Code:** | GLHLTH 571-01
-|:--- | :--- |
-**Instructor:** | Eric Green, Ph.D.
-**Contact:** | [eric.green@duke.edu](mailto:eric.green@duke.edu) / 919-666-7111 (phone/sms) / @ericpgreen / Skype: epgreen
-**Web:** | [Facebook](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fdukemch%2F&sa=D&sntz=1&usg=AFQjCNFBYY6I1hWkfWFuTw8grkn4B286Jw) (gated) / [Google Drive](https://drive.google.com/folderview?id=0Bxn_jkXZ1lxueHJud1hqX1lJMUE&usp=sharing) (gated)
-**Classroom:** | Trent 142
-**Time:** | M 15:05-17:35
+|**Course Code:**|GLHLTH 571-01|
+|:---------------|:------------|
+|**Instructor:**|Eric Green, Ph.D.|
+|**Contact:**|<eric.green@duke.edu> / 919-666-7111 (phone/sms) / @ericpgreen / Skype: epgreen|
+|**Web:**|[Facebook](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fdukemch%2F&sa=D&sntz=1&usg=AFQjCNFBYY6I1hWkfWFuTw8grkn4B286Jw) (gated) / [Google Drive](https://drive.google.com/folderview?id=0Bxn_jkXZ1lxueHJud1hqX1lJMUE&usp=sharing) (gated)|
+|**Classroom:**|Trent 142|
+|**Time:**|M 15:05-17:35|
 
-# COURSE DESCRIPTION
+COURSE DESCRIPTION
+==================
 
-This course is designed to provide students with a solid foundation in global perspectives on maternal and child health research, practice, and policy. Through a combination of lecture, class discussion, and in-class activities, students will examine critical health challenges facing women, children, healthcare providers, and policymakers in some of the world’s most vulnerable communities. 
+This course is designed to provide students with a solid foundation in global perspectives on maternal and child health research, practice, and policy. Through a combination of lecture, class discussion, and in-class activities, students will examine critical health challenges facing women, children, healthcare providers, and policymakers in some of the world’s most vulnerable communities.
 
-# LEARNING OBJECTIVES
+LEARNING OBJECTIVES
+===================
 
 By the end of this course, students will:
 
-* know how key maternal and child health outcomes are measured;
+-   know how key maternal and child health outcomes are measured;
 
-* appreciate the global burden of maternal and child mortality and morbidity;
+-   appreciate the global burden of maternal and child mortality and morbidity;
 
-* have a working knowledge of the evidence base for key maternal and child health interventions;
+-   have a working knowledge of the evidence base for key maternal and child health interventions;
 
-* be familiar with innovative technologies and services for maternal and child healthcare;
+-   be familiar with innovative technologies and services for maternal and child healthcare;
 
-* be able to articulate the key challenges facing health systems serving women and children; and
+-   be able to articulate the key challenges facing health systems serving women and children; and
 
-* be familiar with the major policy debates and international advocacy initiatives in the field of maternal and child health.
+-   be familiar with the major policy debates and international advocacy initiatives in the field of maternal and child health.
 
-# COURSE REQUIREMENTS
+COURSE REQUIREMENTS
+===================
 
-## Class Participation (50%)
+Class Participation (50%)
+-------------------------
 
 I expect that all students will make regular, meaningful contributions to class discussions and team assignments. For that reason, your participation grade will be determined by your attendance and contributions to class activities. Every class I will pull a few names at random to determine who will be the first to field questions about the required readings. If you are absent on the day I pull your name, you will lose 3 participation points (excused absences excluded). If this happens twice, your grade will drop a step (e.g., from A+ to A).
 
-## Writing Assignments (50%)
+Writing Assignments (50%)
+-------------------------
 
 The first midterm exam (40%) will cover maternal health, and the second midterm (40%) will cover infant and child health. Both exams will be take-home. I will announce details about the first midterm exam on Feb 24, and you will have until 9am ET on Mar 4 to submit it. I’ll give you details about your second midterm on the last day of class, and it will be due at 9am ET on April 22. I will give other small writing assignments throughout the semester that will make up 20% of your "writing assignments" grade.
 
 I encourage you to consult the Writing Studio throughout the semester. You may seek their support for any assignment, including the midterm exams. The Writing Studio also publishes [helpful resources](http://twp.duke.edu/writing-studio/resources) that will help you to improve your drafts, such as [this collection](http://twp.duke.edu/writing-studio/resources/working-with-sources) on working with sources. Avoid plagiarism and [know when to quote (rarely) and when to paraphrase (often)](http://twp.duke.edu/uploads/media_items/quotations.original.pdf). If you do not use a citation manager, you should, and the library can help you get started.
 
-# EVALUATION
+EVALUATION
+==========
 
-Students should abide by the[ Duke Community Standard](http://studentaffairs.duke.edu/conduct/about-us/duke-community-standard) at all times. If a questionable circumstance arises, do not hesitate to seek my guidance (before is always better than after).
+Students should abide by the[Duke Community Standard](http://studentaffairs.duke.edu/conduct/about-us/duke-community-standard) at all times. If a questionable circumstance arises, do not hesitate to seek my guidance (before is always better than after).
 
-## Grading Scale
+Grading Scale
+-------------
 
 The grading scale for this course is as follows:
 
-A+: 100-98 | A: 97-93 | A-: 92-90  
-| :--- | :--- | :--- |
-B+: 89-87 | B: 86-83 | B-: 82-80
-C+: 79-77 | C: 76-73 | C-: 72-70  
-D+: 69-67 | D: 66-63 | D-: 62-60  
-F: 59 and below | | |
+|A+: 100-98|A: 97-93|A-: 92-90|
+|:---------|:-------|:--------|
+|B+: 89-87|B: 86-83|B-: 82-80|
+|C+: 79-77|C: 76-73|C-: 72-70|
+|D+: 69-67|D: 66-63|D-: 62-60|
+|F: 59 and below|||
 
-## Final Grade
+Final Grade
+-----------
 
 Your final grade will be a weighted average of your participation (50%) and writing assignments (50%). If you are in between grades, and if the difference is less than or equal to 0.5, your score will round up (e.g., 97.5 rounds up to 98). See this [grading template](https://docs.google.com/spreadsheet/ccc?key=0Ahn_jkXZ1lxudHdjTndGaHJPenpnMTZIQVlVTk5FUkE&usp=sharing) for more details. Penalties for late submissions will be described with each assignment.
 
-# CLASS FORMAT
+CLASS FORMAT
+============
 
-The general class format will be as follows. Please try to limit your breaks to the scheduled breaks. Readings listed under "**_In-Class Activity_**" should be read before class.
+The general class format will be as follows. Please try to limit your breaks to the scheduled breaks. Readings listed under "***In-Class Activity***" should be read before class.
 
 <table>
   <tr>
-    <td>Session A</td>
-    <td>70 min</td>
+    <td>
+Session A
+</td>
+    <td>
+70 min
+</td>
   </tr>
   <tr>
     <td></td>
-    <td>30 min discussion of assigned readings</td>
+    <td>
+30 min discussion of assigned readings
+</td>
   </tr>
   <tr>
     <td></td>
-    <td>5 min break</td>
+    <td>
+5 min break
+</td>
   </tr>
   <tr>
     <td></td>
-    <td>35 min in-class activity</td>
+    <td>
+35 min in-class activity
+</td>
   </tr>
   <tr>
-    <td>Break</td>
-    <td>10 min</td>
+    <td>
+Break
+</td>
+    <td>
+10 min
+</td>
   </tr>
   <tr>
-    <td>Session B</td>
-    <td>70 min</td>
+    <td>
+Session B
+</td>
+    <td>
+70 min
+</td>
   </tr>
   <tr>
     <td></td>
-    <td>30 min discussion of assigned readings</td>
+    <td>
+30 min discussion of assigned readings
+</td>
   </tr>
   <tr>
     <td></td>
-    <td>5 min break</td>
+    <td>
+5 min break
+</td>
   </tr>
   <tr>
     <td></td>
-    <td>35 min in-class activity</td>
+    <td>
+35 min in-class activity
+</td>
   </tr>
 </table>
 
+FREQUENTLY ASKED QUESTIONS
+==========================
 
-# FREQUENTLY ASKED QUESTIONS
-
-## How can we contact you?
+How can we contact you?
+-----------------------
 
 Aside from talking in person, email is my preferred mode of communication; it helps me to keep track of our conversation. A clear and concise email with "MCH" in the subject line will usually result in a response from me within 24 hours, often sooner. If you have a question or request, please put it toward the top of your message. Come across an interesting link? Feel free to send it along but forgive me if I don’t reply. Better yet, post it to our Facebook group so everyone can benefit. Finally, if you find yourself needing to write more than a few sentences, you should probably just come by for office hours so we can talk in person. I lurk on Twitter and usually have Skype open during the day. Feel free to reach me on either one. I’ll respond if I can. I also own a phone and take advantage of its calling features. Sometimes a quick call can save a lot of time.
 
-## What are your office hours?
+What are your office hours?
+---------------------------
 
 W 13:00-16:00 in Trent Hall 238. Other times by appointment (email me). Skype, phone, or in-person meetings are possible.
 
-## Is it OK to record class sessions?
+Is it OK to record class sessions?
+----------------------------------
 
-You should feel free to create recordings in class that aid your learning. This does not give you permission to share or distribute these recordings. Know that for all of your classes, the speaker holds the copyright to the lecture, and you must get the speaker’s written permission to distribute this content. And you have to consider individual privacy rights of your classmates.[ This video](http://www.youtube.com/watch?v=IbA7AGOTlCg) produced by Duke’s Scholarly Communications Office gives a short overview of the issues.
+You should feel free to create recordings in class that aid your learning. This does not give you permission to share or distribute these recordings. Know that for all of your classes, the speaker holds the copyright to the lecture, and you must get the speaker’s written permission to distribute this content. And you have to consider individual privacy rights of your classmates.[This video](http://www.youtube.com/watch?v=IbA7AGOTlCg) produced by Duke’s Scholarly Communications Office gives a short overview of the issues.
 
-## What happens if I miss class?
+What happens if I miss class?
+-----------------------------
 
-Officially, Duke permits students to miss work due to absence from class in four circumstances: illness; personal emergencies; religious observance; and varsity athletic participation. Please take a moment to[ read](http://trinity.duke.edu/undergraduate/academic-policies/missing-work-classes) how Duke defines each circumstance. Missed work associated with any other absence is not covered by this policy and will be considered on a case-by-case basis. See [here](https://github.com/ericpgreen/MCH#class-participation-50) for the implications of unexcused absences on your participation score.
+Officially, Duke permits students to miss work due to absence from class in four circumstances: illness; personal emergencies; religious observance; and varsity athletic participation. Please take a moment to[read](http://trinity.duke.edu/undergraduate/academic-policies/missing-work-classes) how Duke defines each circumstance. Missed work associated with any other absence is not covered by this policy and will be considered on a case-by-case basis. See [here](https://github.com/ericpgreen/MCH#class-participation-50) for the implications of unexcused absences on your participation score.
 
-## May I use electronic devices during class?
+May I use electronic devices during class?
+------------------------------------------
 
 You are free to use any device in the classroom that helps you learn and work (e.g., laptop, tablet, smartphone). If you try to multitask and work on non-class assignments, improve your high score on Angry Birds Candy Crush, or make a critical trade for your Fantasy Football team, your grade will likely suffer. I will notice, and recent research ([Wood et al., 2012](http://www.sciencedirect.com/science/article/pii/S0360131511002077)) suggests that you might not perform as well as you could have in the course if you were not distracted during class.
 
 Rather than banning devices and the internet from the classroom, I will leave it up to you to learn how to use these tools effectively. You will have these distractions in every work meeting once you graduate, so I see no need to enforce an outright ban. Furthermore, I think you will benefit from being able to search the web and use online collaboration tools during class.
 
-That said, I reserve the right to ask you to turn off your device or go offline if I believe that you are distracted or are somehow distracting others (the person behind you will inevitably want to see the[ sneezing panda](http://youtu.be/FzRH3iTQPrk)). Students in one recent study rated other students’ laptop usage as having the most (negative) impact on their ability to concentrate and learn ([Fried, 2008](http://www.sciencedirect.com/science/article/pii/S0360131506001436)). I will know if you are wandering the internet. You might not think so, but you make a face that says "I am checking my Facebook News Feed or chatting with someone right now".
+That said, I reserve the right to ask you to turn off your device or go offline if I believe that you are distracted or are somehow distracting others (the person behind you will inevitably want to see the[sneezing panda](http://youtu.be/FzRH3iTQPrk)). Students in one recent study rated other students’ laptop usage as having the most (negative) impact on their ability to concentrate and learn ([Fried, 2008](http://www.sciencedirect.com/science/article/pii/S0360131506001436)). I will know if you are wandering the internet. You might not think so, but you make a face that says "I am checking my Facebook News Feed or chatting with someone right now".
 
 No phone calls, texting, instant messaging, or emailing during class. We'll take a break every half hour, so please plan accordingly.
 
-## How do I get the readings?
+How do I get the readings?
+--------------------------
 
 Duke students have access to all resources. Just follow the links. Items marked as "gated" are only available to students enrolled in this class (and to others via Library reserves).
 
-# RESOURCES
+RESOURCES
+=========
 
-## <a name="primers">Primers (not required)</a>
+<a name="primers">Primers (not required)</a>
+--------------------------------------------
 
 ### Maternal and Child Health
 
@@ -168,78 +209,138 @@ Speizer, I. S. et al. (2013). Monitoring and evaluation for global maternal and 
 
 Gupta, I. et al. (2010). Demand side financing in health. How far can it address the issue of low utilization in developing countries. [World Health Report](http://www.who.int/healthsystems/topics/financing/healthreport/DSF_No27IEG.pdf).
 
-## Additional Resources on MCH
+Additional Resources on MCH
+---------------------------
 
 Via Delicious:
 
-* [Journals](https://delicious.com/epgreen/journal,mch)
+-   [Journals](https://delicious.com/epgreen/journal,mch)
 
-* [Current issues](https://delicious.com/epgreen/mch,data)
+-   [Current issues](https://delicious.com/epgreen/mch,data)
 
-* [Data sources](https://delicious.com/epgreen/mch,data)
+-   [Data sources](https://delicious.com/epgreen/mch,data)
 
-* [Organizations](https://delicious.com/epgreen/orgs,mch)
+-   [Organizations](https://delicious.com/epgreen/orgs,mch)
 
-# CLASS SCHEDULE
+CLASS SCHEDULE
+==============
 
 M Jan 13, [Class 1](#class1), Introduction
 
 <table>
   <tr>
-    <td colspan="2"><b>Maternal Health</b></td>
-    <td colspan="2"><b>Child Health</b></td>
+    <td colspan="2">
+<b>Maternal Health</b>
+</td>
+    <td colspan="2">
+<b>Child Health</b>
+</td>
   </tr>
   <tr>
-    <td>M Jan 20</td>
-    <td>No class</td>
-    <td>M Mar 10</td>
-    <td>No class</td>
+    <td>
+M Jan 20
+</td>
+    <td>
+No class
+</td>
+    <td>
+M Mar 10
+</td>
+    <td>
+No class
+</td>
   </tr>
   <tr>
-  <td>M Jan 27</td>
-    <td><a href="#class2">Class 2</a></td>
-    <td>M Mar 17</td>
-    <td><a href="#class8">Class 8</a></td>
+  <td>
+M Jan 27
+</td>
+    <td>
+<a href="#class2">Class 2</a>
+</td>
+    <td>
+M Mar 17
+</td>
+    <td>
+<a href="#class8">Class 8</a>
+</td>
   </tr>
   <tr>
-  <td>M Feb 3</td>
-    <td><a href="#class3">Class 3</a></td>
-    <td>M Mar 24</td>
-    <td><a href="#class9">Class 9</a></td>
+  <td>
+M Feb 3
+</td>
+    <td>
+<a href="#class3">Class 3</a>
+</td>
+    <td>
+M Mar 24
+</td>
+    <td>
+<a href="#class9">Class 9</a>
+</td>
   </tr>
   <tr>
-   <td>M Feb 10</td>
-    <td><a href="#class4">Class 4</a></td>
-    <td>M Mar 31</td>
-    <td><a href="#class10">Class 10</a></td>
+   <td>
+M Feb 10
+</td>
+    <td>
+<a href="#class4">Class 4</a>
+</td>
+    <td>
+M Mar 31
+</td>
+    <td>
+<a href="#class10">Class 10</a>
+</td>
   </tr>
   <tr>
-  <td>M Feb 17</td>
-    <td><a href="#class5">Class 5</a></td>
-    <td>M Apr 7</td>
-    <td><a href="#class11">Class 11</a></td>
+  <td>
+M Feb 17
+</td>
+    <td>
+<a href="#class5">Class 5</a>
+</td>
+    <td>
+M Apr 7
+</td>
+    <td>
+<a href="#class11">Class 11</a>
+</td>
   </tr>
   <tr>
-  <td>M Feb 24</td>
-    <td><a href="#class6">Class 6</a></td>
-    <td>M Apr 14</td>
-    <td><a href="#class12">Class 12</a></td>
+  <td>
+M Feb 24
+</td>
+    <td>
+<a href="#class6">Class 6</a>
+</td>
+    <td>
+M Apr 14
+</td>
+    <td>
+<a href="#class12">Class 12</a>
+</td>
   </tr>
   <tr>
-    <td>M Mar 3</td>
-    <td><a href="#class7">Class 7</a></td>
+    <td>
+M Mar 3
+</td>
+    <td>
+<a href="#class7">Class 7</a>
+</td>
     <td></td>
     <td></td>
   </tr>
 </table>
 
-## <a name="class1">Class 1: Introduction</a>
+<a name="class1">Class 1: Introduction</a>
+------------------------------------------
 
 #### Assigned Readings
 
 None. Consider reviewing [primers](#primers).
 
-## <a name="class2">Class 2: Maternal Mortality</a>
+<a name="class2">Class 2: Maternal Mortality</a>
+------------------------------------------------
 
 ### Session 2a: Data and measurement
 
@@ -253,15 +354,15 @@ Hoyert, D. L. (2007). [Maternal Mortality and Related Concepts](http://www.cdc.g
 
 Cross, S. et al. (2010). What you count is what you target: the implications of maternal death classification for tracking progress towards reducing maternal mortality in developing countries. [Bulletin of the World Health Organization, 88(2), 147-153](http://www.who.int/bulletin/volumes/88/2/09-063537/en/).
 
-Hogan et al. (2010). Maternal mortality for 181 countries, 1980-2008: a systematic analysis of progress towards Millennium Development Goal 5.[ Lancet, 375(9726)](http://www.ncbi.nlm.nih.gov/pubmed/20382417)[, 1609-23.](http://www.ncbi.nlm.nih.gov/pubmed/20382417)
+Hogan et al. (2010). Maternal mortality for 181 countries, 1980-2008: a systematic analysis of progress towards Millennium Development Goal 5.[Lancet, 375(9726)](http://www.ncbi.nlm.nih.gov/pubmed/20382417)[, 1609-23.](http://www.ncbi.nlm.nih.gov/pubmed/20382417)
 
 Loudon, I. (2000). Maternal mortality in the past and its relevance to developing countries today. [The American Journal of Clinical Nutrition, 72(1), 241s-246s](http://ajcn.nutrition.org/content/72/1/241s.short).
 
 #### In-Class Activity: Where do the data come from?
 
-1. Use the [IHME mortality visualization tool](http://viz.healthmetricsandevaluation.org/mortality/) to display data for your two countries. Record the number and type of data sources. See also the [web appendix](http://download.thelancet.com/mmcs/journals/lancet/PIIS0140673610605181/mmc1.pdf?id=f1b40765af4fa604:-5309d481:1436e5ad2c9:-4a2c1389127435689) of the Hogan et al. article and search for your countries.
+1.  Use the [IHME mortality visualization tool](http://viz.healthmetricsandevaluation.org/mortality/) to display data for your two countries. Record the number and type of data sources. See also the [web appendix](http://download.thelancet.com/mmcs/journals/lancet/PIIS0140673610605181/mmc1.pdf?id=f1b40765af4fa604:-5309d481:1436e5ad2c9:-4a2c1389127435689) of the Hogan et al. article and search for your countries.
 
-2. Find the original data source.
+2.  Find the original data source.
 
 ### Session 2b: The who, when, where, and why of maternal mortality
 
@@ -279,9 +380,10 @@ Rosenfield, A., & Maine, D. (1985). Maternal mortality-a neglected tragedy: Wher
 
 #### In-Class Activity: Revisiting history
 
-It’s November 1933. FDR has only been in office for a few months, and the country is gripped by the Great Depression. World War II is just around the corner. A new weekly magazine called "News-Week" hit the newsstands for the first time on February 17. The 32-page magazine cost $0.10. The November 18th issue (Vol II, Issue 16) will feature Hitler on the cover and devote one page to “Science”. You have been asked to write an article for this issue about a new report called [Maternal Mortality in New York City](http://hdl.handle.net/2027/mdp.39015068601072) ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuZG5LSy1YWkVPTEk/edit?usp=sharing)). This report followed a [White House Conference on Child Health and Protection](http://hdl.handle.net/2027/mdp.39015009499040) report published the same year ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuTUpMeVVYdGhsWkU/edit?usp=sharing)). Your editor wants a 300-word article and a figure.
+It’s November 1933. FDR has only been in office for a few months, and the country is gripped by the Great Depression. World War II is just around the corner. A new weekly magazine called "News-Week" hit the newsstands for the first time on February 17. The 32-page magazine cost \$0.10. The November 18th issue (Vol II, Issue 16) will feature Hitler on the cover and devote one page to “Science”. You have been asked to write an article for this issue about a new report called [Maternal Mortality in New York City](http://hdl.handle.net/2027/mdp.39015068601072) ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuZG5LSy1YWkVPTEk/edit?usp=sharing)). This report followed a [White House Conference on Child Health and Protection](http://hdl.handle.net/2027/mdp.39015009499040) report published the same year ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuTUpMeVVYdGhsWkU/edit?usp=sharing)). Your editor wants a 300-word article and a figure.
 
-## <a name="class3">Class 3: Preventing Maternal Mortality</a>
+<a name="class3">Class 3: Preventing Maternal Mortality</a>
+-----------------------------------------------------------
 
 ### Session 3a: What works?
 
@@ -289,9 +391,9 @@ It’s November 1933. FDR has only been in office for a few months, and the coun
 
 #### Assigned Readings
 
-Campbell, O. M. R. & Graham, W. J. (2006). Strategies for reducing maternal mortality: getting on with what works.[ Lancet, 368(9543)](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2806%2969381-1/fulltext?_eventId=login)[, 1284-1299](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2806%2969381-1/fulltext?_eventId=login).
+Campbell, O. M. R. & Graham, W. J. (2006). Strategies for reducing maternal mortality: getting on with what works.[Lancet, 368(9543)](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2806%2969381-1/fulltext?_eventId=login)[, 1284-1299](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2806%2969381-1/fulltext?_eventId=login).
 
-The Partnership for Maternal, Newborn & Child Health (2011).[ A Global Review of the Key Interventions Related to Reproductive, Maternal, Newborn and Child Health (RMNCH)](http://www.who.int/pmnch/topics/part_publications/201112_essential_interventions/en/index.html). Geneva, Switzerland: PMNCH.
+The Partnership for Maternal, Newborn & Child Health (2011).[A Global Review of the Key Interventions Related to Reproductive, Maternal, Newborn and Child Health (RMNCH)](http://www.who.int/pmnch/topics/part_publications/201112_essential_interventions/en/index.html). Geneva, Switzerland: PMNCH.
 
 IHME (2010). Building Momentum: Global Progress Toward Reducing Maternal and Child Mortality. ([Chapter 1](http://www.healthmetricsandevaluation.org/publications/policy-report/building-momentum-global-progress-toward-reducing-maternal-and-child-mor))
 
@@ -309,7 +411,7 @@ Prata, N., Passano, P., Sreenivas, A., & Gerdts, C. E. (2010). Maternal mortalit
 
 Gerein, N. et al. (2009). Health system impacts on maternal and child health. In Ehiri, J. H. (Ed.), Maternal and Child Health. New York: Springer. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuN2dTOW9qTVpDd1U/edit?usp=sharing) and on reserve)
 
-Adam, T. et al. (2005). Cost effectiveness analysis of strategies for maternal and neonatal health in developing countries.[ BMJ, 331(7525)](http://www.ncbi.nlm.nih.gov/pubmed/16282407)[, 1107](http://www.ncbi.nlm.nih.gov/pubmed/16282407).
+Adam, T. et al. (2005). Cost effectiveness analysis of strategies for maternal and neonatal health in developing countries.[BMJ, 331(7525)](http://www.ncbi.nlm.nih.gov/pubmed/16282407)[, 1107](http://www.ncbi.nlm.nih.gov/pubmed/16282407).
 
 Prata, N. et al. (2010). Setting priorities for safe motherhood interventions in resource-scarce settings. [Health Policy, 94(1), 1-13.](http://www.sciencedirect.com/science/article/pii/S0168851009002322)
 
@@ -317,7 +419,8 @@ Prata, N. et al. (2010). Setting priorities for safe motherhood interventions in
 
 Prior to class, [install Spectrum](http://www.jhsph.edu/departments/international-health/centers-and-institutes/institute-for-international-programs/list/spectrum.html) and download the [projection file](http://www.jhsph.edu/departments/international-health/centers-and-institutes/institute-for-international-programs/list/projection.html) for your group’s assigned low-income country ([instructions](http://www.jhsph.edu/departments/international-health/centers-and-institutes/institute-for-international-programs/_documents/manuals/InstallingLiSt.pdf)). Or plan to use the version we have installed on a virtual machine. Read about the [Safe motherhood module](http://www.policyproject.com/pubs/manuals/SafeMoME.pdf) and think about what decisions you will make as a policymaker charged with eliminating preventable maternal deaths in your country.
 
-## <a name="class4">Class 4: Pregnancy</a>
+<a name="class4">Class 4: Pregnancy</a>
+---------------------------------------
 
 ### Session 4a: Antenatal Care
 
@@ -349,13 +452,14 @@ Hill, J. et al. (2013). Factors Affecting the Delivery, Access, and Use of Inter
 
 #### In-Class Activity: Case analysis
 
-Sullivan, E. et al. (2011). Botswana's Program in Preventing Mother-to-Child HIV Transmission. Harvard Medical School. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuVk5qZ1Rsd0RwMFk/edit?usp=sharing)) 
+Sullivan, E. et al. (2011). Botswana's Program in Preventing Mother-to-Child HIV Transmission. Harvard Medical School. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuVk5qZ1Rsd0RwMFk/edit?usp=sharing))
 
-## <a name="class5">Class 5: Childbirth</a>
+<a name="class5">Class 5: Childbirth</a>
+----------------------------------------
 
 ### Session 5a: Childbirth
 
-*The majority of maternal deaths are caused by direct obstetric complications that are hard to predict and require life-saving treatment. Having access to emergency obstetric care can mean the difference between life and death when there are complications. That said, most women do not have complications and do not want to deliver at a facility where the quality of care may be questionable (**[prime example*](http://www.youtube.com/watch?v=Pev4r1C16-0)*). In this session we'll review the evidence for emergency obstetric care and consider the reasons why facility deliveries are not common in all places.*
+\*The majority of maternal deaths are caused by direct obstetric complications that are hard to predict and require life-saving treatment. Having access to emergency obstetric care can mean the difference between life and death when there are complications. That said, most women do not have complications and do not want to deliver at a facility where the quality of care may be questionable (\*\*[prime example\*](http://www.youtube.com/watch?v=Pev4r1C16-0)*). In this session we'll review the evidence for emergency obstetric care and consider the reasons why facility deliveries are not common in all places.*
 
 #### Assigned Readings
 
@@ -367,7 +471,7 @@ Kruk, M. E., Paczkowski, M., Mbaruku, G., de Pinho, H., & Galea, S. (2009). Wome
 
 #### <a name="ir">In-Class Activity: Innovation review</a>
 
-In 2011, USAID and partners launched the first "grand challenge" for maternal and child health called “[Saving Lives at Birth](http://savinglivesatbirth.net/)”.  The same year, the WHO Innovation Working Group published a thematic report on maternal and child health innovation entitled “[Innovating for Every Woman, Every Child](http://www.who.int/pmnch/activities/jointactionplan/innovation_report_lowres_20110830.pdf)”. Since then, a number of great resources for MCH innovation have been developed, including the [Center for Health Market Innovations](http://healthmarketinnovations.org/) and [Maternova](http://maternova.net/). Peruse resources like these and identify one promising safe motherhood innovation to share with the class.
+In 2011, USAID and partners launched the first "grand challenge" for maternal and child health called “[Saving Lives at Birth](http://savinglivesatbirth.net/)”. The same year, the WHO Innovation Working Group published a thematic report on maternal and child health innovation entitled “[Innovating for Every Woman, Every Child](http://www.who.int/pmnch/activities/jointactionplan/innovation_report_lowres_20110830.pdf)”. Since then, a number of great resources for MCH innovation have been developed, including the [Center for Health Market Innovations](http://healthmarketinnovations.org/) and [Maternova](http://maternova.net/). Peruse resources like these and identify one promising safe motherhood innovation to share with the class.
 
 ### Session 5b: Maternal health financing
 
@@ -377,7 +481,7 @@ In 2011, USAID and partners launched the first "grand challenge" for maternal an
 
 Dzakpasu, S., Powell-Jackson, T., & Campbell, O. M. (2013). Impact of user fees on maternal health service utilization and related health outcomes: a systematic review. [Health Policy and Planning](http://www.ncbi.nlm.nih.gov/pubmed/23372035).
 
-Bellows, N. M. et al. (2011). The use of vouchers for reproductive health services in developing countries: Systematic review.[ Tropical Medicine & International Health, 16(1), 84-89](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-3156.2010.02667.x/full).
+Bellows, N. M. et al. (2011). The use of vouchers for reproductive health services in developing countries: Systematic review.[Tropical Medicine & International Health, 16(1), 84-89](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-3156.2010.02667.x/full).
 
 Mohanan et al. (2014). Effect of Chiranjeevi Yojana on institutional deliveries and neonatal and maternal outcomes in Gujarat, India: a difference-in-differences analysis. [WHO Bulletin, online first](http://www.who.int/bulletin/online_first/13-124644.pdf).
 
@@ -385,7 +489,8 @@ Mohanan et al. (2014). Effect of Chiranjeevi Yojana on institutional deliveries 
 
 In 2013, Kenya abolished fees for maternity care. How could we study the impact of this decision now? If you could go back in time and advise the Ministry of Health prior to implementation this policy change, how would you have suggested that they roll out the change to maximize learning opportunities?
 
-## <a name="class6">Class 6: Reproductive Health</a>
+<a name="class6">Class 6: Reproductive Health</a>
+-------------------------------------------------
 
 ### Session 6a: Population Growth
 
@@ -411,7 +516,7 @@ Prior to class, download and install [R](http://lib.stat.cmu.edu/R/CRAN/) and [R
 
 Peterson, H. B. et al. (2013). Meeting the unmet need for family planning: now is the time. [The Lancet, 381(9879), 1696-1699](http://www.ncbi.nlm.nih.gov/pubmed/23683620).
 
-Bongaarts, J. et al. (2012). Family Planning Programs for the 21st Century: Rationale and Design. [Population Council](http://www.popcouncil.org/pdfs/2012_FPfor21stCentury.pdf). 
+Bongaarts, J. et al. (2012). Family Planning Programs for the 21st Century: Rationale and Design. [Population Council](http://www.popcouncil.org/pdfs/2012_FPfor21stCentury.pdf).
 
 Dean et al. (2013). Setting Research Priorities for Preconception Care in Low- and Middle-Income Countries: Aiming to Reduce Maternal and Child Mortality and Morbidity. [PLoS Med 10(9): e1001508](http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.1001508).
 
@@ -419,13 +524,15 @@ Dean et al. (2013). Setting Research Priorities for Preconception Care in Low- a
 
 [Reducing Fertility in Bangladesh](http://www.cgdev.org/doc/millions/MS_case_13.pdf). Levine, R. (2007). Case Studies in Global Health: Millions Saved. Washington: Center for Global Development.
 
-## <a name="class7">Class 7: Book Club</a>
+<a name="class7">Class 7: Book Club</a>
+---------------------------------------
 
 #### Assigned Readings
 
 Holloway, K. (2007). *Monique and the Mango Rains: two years with a midwife in Mali*. Long Grove, Il: Waveland Press. ([available as an ebook](http://getitatduke.library.duke.edu/?ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info:sid/summon.serialssolutions.com&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.genre=book&rft.title=Monique+and+the+Mango+Rains%3A+Two+Years+With+a+Midwife+in+Mali&rft.date=2007-01-01&rft.pub=Waveland+Press%2C+Inc&paramdict=en-US))
 
-## <a name="class8">Class 8: Fetal and Neonatal Mortality</a>
+<a name="class8">Class 8: Fetal and Neonatal Mortality</a>
+----------------------------------------------------------
 
 ### Session 8a: Data and measurement
 
@@ -440,7 +547,8 @@ Cousens, S. et al. (2011). National, regional, and worldwide estimates of stillb
 Lawn, J. E. et al. (2012). Newborn survival: a multi-country analysis of a decade of change. [Health Policy and Planning, 27(suppl 3), iii6-iii28](http://heapol.oxfordjournals.org/content/27/suppl_3/iii6.full).
 
 #### In-Class Activity: Data exploration
-In 1729, Jane Franklin, Benjamin Franklin's sister, gave birth to her first child. This child, a boy, Josiah Mecom, died a few weeks before his first birthday. Twenty-two years later, at the age of 39, Jane gave birth to her 12th child, a girl she named Abiah. Almost 9 months later, Abiah was dead. 
+
+In 1729, Jane Franklin, Benjamin Franklin's sister, gave birth to her first child. This child, a boy, Josiah Mecom, died a few weeks before his first birthday. Twenty-two years later, at the age of 39, Jane gave birth to her 12th child, a girl she named Abiah. Almost 9 months later, Abiah was dead.
 
 How does Jane's experience compare to modern times? We'll fire up R again to look at fertility and infant mortality over time and across countries.
 
@@ -459,9 +567,11 @@ Blencowe, H., & Cousens, S. (2013). Review: Addressing the challenge of neonatal
 Pattinson, R. et al. (2011). Stillbirths: how can health systems deliver for mothers and babies?. [The Lancet, 377(9777), 1610-1623](http://www.ncbi.nlm.nih.gov/pubmed/21496910).
 
 #### In-Class Activity: Innovation review
+
 Refer to the resources listed in our first <a href="#ir">innovation review</a> and identify one promising intervention for saving newborn lives.
 
-## <a name="class9">Class 9: Child Mortality</a>
+<a name="class9">Class 9: Child Mortality</a>
+---------------------------------------------
 
 ### Session 9a: Data and measurement
 
@@ -476,22 +586,23 @@ Rajaratnam et al. (2010). Neonatal, postneonatal, childhood, and under-5 mortali
 Ronsmans, C. et al. (2010). Effect of parent's death on child survival in rural Bangladesh: a cohort study. [The Lancet, 375(9730), 2024-2031](http://www.ncbi.nlm.nih.gov/pubmed/20569842).
 
 #### In-Class Activity: The Oregon Trail
-In 1989 I spent a summer at computer camp playing [Oregon Trail](http://www.oregontrail.com/hmh/site/oregontrail/) nonstop on the Apple IIGS. The game takes place in the mid-1800s during the Westward Expansion as nearly a half a million people in the U.S. made the [arduious 2,000 mile trip](http://en.wikipedia.org/wiki/Oregon_Trail) from east to west by wagon wheel, often falling victim to cholera, hypothermia, and botched attempts to ford the river. 
 
-Now it's your turn to try your hand at the game and investigate child injuries and mortality at the same time. Before class, visit this [page](http://www.virtualapple.org/oregontraildisk.html) using the [Chrome](https://www.google.com/intl/en/chrome/browser/) browser and install the plugin that will allow you to run the Apple II emulator. And get your 1989 playlist ready. Paula Abdul's "Straight Up" and Bobby Brown's "My Prerogative" are just some of the hits that topped the charts in 1989. Please, no Debbie Gibson.  
+In 1989 I spent a summer at computer camp playing [Oregon Trail](http://www.oregontrail.com/hmh/site/oregontrail/) nonstop on the Apple IIGS. The game takes place in the mid-1800s during the Westward Expansion as nearly a half a million people in the U.S. made the [arduious 2,000 mile trip](http://en.wikipedia.org/wiki/Oregon_Trail) from east to west by wagon wheel, often falling victim to cholera, hypothermia, and botched attempts to ford the river.
 
-In class, we'll assign students to different player profiles to see if money buys health: 
+Now it's your turn to try your hand at the game and investigate child injuries and mortality at the same time. Before class, visit this [page](http://www.virtualapple.org/oregontraildisk.html) using the [Chrome](https://www.google.com/intl/en/chrome/browser/) browser and install the plugin that will allow you to run the Apple II emulator. And get your 1989 playlist ready. Paula Abdul's "Straight Up" and Bobby Brown's "My Prerogative" are just some of the hits that topped the charts in 1989. Please, no Debbie Gibson.
 
-1. A banker from Boston
-2. A carpenter from Ohio
-3. A farmer from Illinois
+In class, we'll assign students to different player profiles to see if money buys health:
 
-Name your players as follows: 
+1.  A banker from Boston
+2.  A carpenter from Ohio
+3.  A farmer from Illinois
 
-1. Bert (adult male)
-2. Bertha (adult female)
-3. Jimmy (2 year old boy)
-4. Laura (1 month old girl)
+Name your players as follows:
+
+1.  Bert (adult male)
+2.  Bertha (adult female)
+3.  Jimmy (2 year old boy)
+4.  Laura (1 month old girl)
 
 We'll also assign departure months. Leave too early and your oxen might starve because the grass is not ready. Leave too late and you won't make it before winter.
 
@@ -511,7 +622,8 @@ Bhutta, Z. A., & Black, R. E. (2013). Global Maternal, Newborn, and Child Health
 
 We will return to LiST and estimate the number of deaths that can be averted by scaling up proven interventions. Details forthcoming.
 
-## <a name="class10">Class 10: Immunizations and Nutrition</a>
+<a name="class10">Class 10: Immunizations and Nutrition</a>
+-----------------------------------------------------------
 
 ### Session 10a: Immunizations
 
@@ -519,7 +631,7 @@ We will return to LiST and estimate the number of deaths that can be averted by 
 
 #### Assigned Readings
 
-WHO (2013). [Recommended routine immunizations for children](http://www.who.int/immunization/policy/Immunization_routine_table2.pdf). 
+WHO (2013). [Recommended routine immunizations for children](http://www.who.int/immunization/policy/Immunization_routine_table2.pdf).
 
 Centers for Disease Control and Prevention (CDC. (2013). Global routine vaccination coverage-2012. [MMWR,62(43), 858-861](http://www.cdc.gov/mmwr/pdf/wk/mm6243.pdf).
 
@@ -528,7 +640,8 @@ WHO (2009). State of the World's Vaccines and Immunization. World Health Organiz
 Cutts, F. T. et al. (2013). Measuring coverage in MNCH: Design, implementation, and interpretation challenges associated with tracking vaccination coverage using household surveys. [PLoS Medicine, 10(5), e1001404](http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1001404).
 
 #### In-Class Activity: Debating polio
-Should "eradication" be the goal? 
+
+Should "eradication" be the goal?
 
 Razum, O., & Müller, O. (2013). Polio eradication: where are we now?. [Lancet,382(9909), 1979](http://www.ncbi.nlm.nih.gov/pubmed/24332075).
 
@@ -547,9 +660,11 @@ Bhutta, Z. A. et al. (2013). Evidence-based interventions for improvement of mat
 Ruel, M. T., & Alderman, H. (2013). Nutrition-sensitive interventions and programmes: how can they help to accelerate progress in improving maternal and child nutrition?. [The Lancet, 382(9891), 536-51](http://www.ncbi.nlm.nih.gov/pubmed/23746780).
 
 #### In-Class Activity: Case analysis
+
 Phillips, E. & Rhatigan, J. (2011). Treating malnutrition in Haiti with Ready-to-Use Therapeutic Foods. Boston: Harvard Medical School. [(gated)](https://drive.google.com/file/d/0Bxn_jkXZ1lxuV1FldFh0cU5MZFk/edit?usp=sharing)
 
-## <a name="class11">Class 11: Putting MCH in Context</a>
+<a name="class11">Class 11: Putting MCH in Context</a>
+------------------------------------------------------
 
 ### Session 11a: Environmental issues, childhood injury, and maltreatment
 
@@ -565,7 +680,7 @@ WHO (2008). World report on child injury prevention.Geneva: WHO. [Chapter 1](htt
 
 #### In-Class Activity: Research design
 
-Design a study to assess the impact of a child maltreatment prevention intervention in your assigned low-income country. Indicate your research design and primary outcome. 
+Design a study to assess the impact of a child maltreatment prevention intervention in your assigned low-income country. Indicate your research design and primary outcome.
 
 Skeen, S., & Tomlinson, M. (2013). A public health approach to preventing child abuse in low-and middle-income countries: A call for action. [International Journal of Psychology, 48(2), 108-116](http://www.ncbi.nlm.nih.gov/pubmed/23597010).
 
@@ -585,7 +700,8 @@ Degomme, O., & Guha-Sapir, D. (2010). Patterns of mortality rates in Darfur conf
 
 You and your team have been invited to write a 300-500 word comment for a prestegious global health journal on the threat posed by the crisis in Syria on infant and child health in the country. What is your message for global health practitioners and policymakers?
 
-## <a name="class12">Class 12: Mental Health and Development</a>
+<a name="class12">Class 12: Mental Health and Development</a>
+-------------------------------------------------------------
 
 ### Session 11a: Maternal mental health
 
@@ -593,7 +709,7 @@ You and your team have been invited to write a 300-500 word comment for a preste
 
 #### Assigned Readings
 
-Rahman, A. et al. (2013). Interventions for common perinatal mental disorders in women in low-and middle-income countries: a systematic review and meta-analysis. [Bulletin of the World Health Organization, ](http://www.ncbi.nlm.nih.gov/pubmed/23940407)[91(8):593-601](http://www.ncbi.nlm.nih.gov/pubmed/23940407).
+Rahman, A. et al. (2013). Interventions for common perinatal mental disorders in women in low-and middle-income countries: a systematic review and meta-analysis. [Bulletin of the World Health Organization,](http://www.ncbi.nlm.nih.gov/pubmed/23940407)[91(8):593-601](http://www.ncbi.nlm.nih.gov/pubmed/23940407).
 
 Rahman, A., Malik, A., Sikander, S., Roberts, C., & Creed, F. (2008). Cognitive behaviour therapy-based intervention by community health workers for mothers with depression and their infants in rural Pakistan: a cluster-randomised controlled trial. [The Lancet, 372(9642), 902-909.](http://www.ncbi.nlm.nih.gov/pubmed/18790313)
 
@@ -617,12 +733,14 @@ Engle, P. L. et al. (2007). Strategies to avoid the loss of developmental potent
 
 President Barack Obama, [State of the Union](http://www.whitehouse.gov/the-press-office/2013/02/13/fact-sheet-president-obama-s-plan-early-education-all-americans), February 12, 2013
 
-> In states that make it a priority to educate our youngest children...studies show students grow up more likely to read and do math at grade level, graduate high school, hold a job, form more stable families of their own.  We know this works.  So let’s do what works and make sure none of our children start the race of life already behind.
+> In states that make it a priority to educate our youngest children...studies show students grow up more likely to read and do math at grade level, graduate high school, hold a job, form more stable families of their own. We know this works. So let’s do what works and make sure none of our children start the race of life already behind.
 
-# ASSIGNMENTS
+ASSIGNMENTS
+===========
 
-Assignment | Date/Time |
-| :--- | :--- |
-Maternal health midterm | Mar 4, 9am ET
-Child health midterm | Apr 22, 9am ET
+|Assignment|Date/Time|
+|:---------|:--------|
+|Maternal health midterm|Mar 4, 9am ET|
+|Child health midterm|Apr 22, 9am ET|
+
 
