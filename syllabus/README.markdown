@@ -9,4 +9,4 @@ Compile
 
 4. Run the following command to compile into one markdown file: `pandoc -o ../README.md *.md`
 
-5. Run the following command to compile into one pdf: `pandoc -o ../printable-version.pdf *.md`
+5. Run the following command to compile into one pdf: `pandoc -V geometry:margin=1in -o ../printable-version.pdf *.md`
