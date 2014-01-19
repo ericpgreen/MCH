@@ -1,17 +1,14 @@
 # CLASS SCHEDULE
 
-M Jan 13, [Class 1](#class1), Introduction
-
-| Maternal Health | | Child Health | |
-Date      | Class                           | Date      | Class
-| :---    | :---                            | :---      | :--- | 
-M Jan 20  | No class                        | M Mar 10  | No class
-M Jan 27  | <a href="#class2">Class 2</a>   | M Mar 17  | <a href="#class8">Class 8</a>
-M Feb 3   | <a href="#class3">Class 3</a>   | M Mar 24  | <a href="#class9">Class 9</a>
-M Feb 10  | <a href="#class4">Class 4</a>   | M Mar 31  | <a href="#class10">Class 10</a>
-M Feb 17  | <a href="#class5">Class 5</a>   | M Apr 7   | <a href="#class11">Class 11</a>
-M Feb 24  | <a href="#class6">Class 6</a>   | M Apr 14  | <a href="#class12">Class 12</a>
-M Mar 3   | <a href="#class7">Class 7</a>   |           |
+Date      | Class              | Date      | Class
+| :---    | :---               | :---      | :--- | 
+M Jan 13  | [Class 1](#class1) | M Mar 3   | [Class 7](#class7)
+M Jan 20  | No class           | M Mar 10  | No class
+M Jan 27  | [Class 2](#class2) | M Mar 17  | [Class 8](#class8)
+M Feb 3   | [Class 3](#class3) | M Mar 24  | [Class 9](#class9)
+M Feb 10  | [Class 4](#class4) | M Mar 31  | [Class 10](#class10)
+M Feb 17  | [Class 5](#class5) | M Apr 7   | [Class 11](#class11)
+M Feb 24  | [Class 6](#class6) | M Apr 14  | [Class 12](#class12)
 
 ## <a name="class1">Class 1: Introduction</a>
 
