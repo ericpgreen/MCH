@@ -267,8 +267,9 @@ Name your players as follows:
 
 1. Bert (adult male)
 2. Bertha (adult female)
-3. Jimmy (2 year old boy)
-4. Laura (1 month old girl)
+3. Jimmy (4 year old boy)
+4. Laura (2 year old girl)
+5. Ruth (1 month old girl)
 
 We'll also assign departure months. Leave too early and your oxen might starve because the grass is not ready. Leave too late and you won't make it before winter.
 
