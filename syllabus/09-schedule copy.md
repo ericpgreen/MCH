@@ -2,16 +2,54 @@
 
 M Jan 13, [Class 1](#class1), Introduction
 
-| Maternal Health | | Child Health | |
-Date      | Class                           | Date      | Class
-| :---    | :---                            | :---      | :--- | 
-M Jan 20  | No class                        | M Mar 10  | No class
-M Jan 27  | <a href="#class2">Class 2</a>   | M Mar 17  | <a href="#class8">Class 8</a>
-M Feb 3   | <a href="#class3">Class 3</a>   | M Mar 24  | <a href="#class9">Class 9</a>
-M Feb 10  | <a href="#class4">Class 4</a>   | M Mar 31  | <a href="#class10">Class 10</a>
-M Feb 17  | <a href="#class5">Class 5</a>   | M Apr 7   | <a href="#class11">Class 11</a>
-M Feb 24  | <a href="#class6">Class 6</a>   | M Apr 14  | <a href="#class12">Class 12</a>
-M Mar 3   | <a href="#class7">Class 7</a>   |           |
+<table>
+  <tr>
+    <td colspan="2"><b>Maternal Health</b></td>
+    <td colspan="2"><b>Child Health</b></td>
+  </tr>
+  <tr>
+    <td>M Jan 20</td>
+    <td>No class</td>
+    <td>M Mar 10</td>
+    <td>No class</td>
+  </tr>
+  <tr>
+  <td>M Jan 27</td>
+    <td><a href="#class2">Class 2</a></td>
+    <td>M Mar 17</td>
+    <td><a href="#class8">Class 8</a></td>
+  </tr>
+  <tr>
+  <td>M Feb 3</td>
+    <td><a href="#class3">Class 3</a></td>
+    <td>M Mar 24</td>
+    <td><a href="#class9">Class 9</a></td>
+  </tr>
+  <tr>
+   <td>M Feb 10</td>
+    <td><a href="#class4">Class 4</a></td>
+    <td>M Mar 31</td>
+    <td><a href="#class10">Class 10</a></td>
+  </tr>
+  <tr>
+  <td>M Feb 17</td>
+    <td><a href="#class5">Class 5</a></td>
+    <td>M Apr 7</td>
+    <td><a href="#class11">Class 11</a></td>
+  </tr>
+  <tr>
+  <td>M Feb 24</td>
+    <td><a href="#class6">Class 6</a></td>
+    <td>M Apr 14</td>
+    <td><a href="#class12">Class 12</a></td>
+  </tr>
+  <tr>
+    <td>M Mar 3</td>
+    <td><a href="#class7">Class 7</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## <a name="class1">Class 1: Introduction</a>
 
@@ -398,3 +436,4 @@ Engle, P. L. et al. (2007). Strategies to avoid the loss of developmental potent
 President Barack Obama, [State of the Union](http://www.whitehouse.gov/the-press-office/2013/02/13/fact-sheet-president-obama-s-plan-early-education-all-americans), February 12, 2013
 
 > In states that make it a priority to educate our youngest children...studies show students grow up more likely to read and do math at grade level, graduate high school, hold a job, form more stable families of their own.  We know this works.  So let’s do what works and make sure none of our children start the race of life already behind.
+
