@@ -3,8 +3,6 @@ Introduction to Global Maternal and Child Health
 
 **Duke University, Spring 2014**
 
-printable version [here](https://github.com/ericpgreen/MCH/raw/master/printable%20version.pdf)
-
 |**Course Code:**|GLHLTH 571-01|
 |:---------------|:------------|
 |**Instructor:**|Eric Green, Ph.D.|
@@ -77,68 +75,7 @@ CLASS FORMAT
 
 The general class format will be as follows. Please try to limit your breaks to the scheduled breaks. Readings listed under "***In-Class Activity***" should be read before class.
 
-<table>
-  <tr>
-    <td>
-Session A
-</td>
-    <td>
-70 min
-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>
-30 min discussion of assigned readings
-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>
-5 min break
-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>
-35 min in-class activity
-</td>
-  </tr>
-  <tr>
-    <td>
-Break
-</td>
-    <td>
-10 min
-</td>
-  </tr>
-  <tr>
-    <td>
-Session B
-</td>
-    <td>
-70 min
-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>
-30 min discussion of assigned readings
-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>
-5 min break
-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>
-35 min in-class activity
-</td>
-  </tr>
-</table>
+Session | Time | :--- | : --- | Session A | 70 min | 30 min discussion of assigned readings | 5 min break | 35 min in-class activity Break | 10 min Session B | 70 min | 30 min discussion of assigned readings | 5 min break | 35 min in-class activity
 
 FREQUENTLY ASKED QUESTIONS
 ==========================
