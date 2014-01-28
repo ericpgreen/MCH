@@ -243,7 +243,7 @@ It’s November 1933. FDR has only been in office for a few months, and the coun
 
 Campbell, O. M. R. & Graham, W. J. (2006). Strategies for reducing maternal mortality: getting on with what works.[Lancet, 368(9543)](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2806%2969381-1/fulltext?_eventId=login)[, 1284-1299](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2806%2969381-1/fulltext?_eventId=login).
 
-The Partnership for Maternal, Newborn & Child Health (2011).[A Global Review of the Key Interventions Related to Reproductive, Maternal, Newborn and Child Health (RMNCH)](http://www.who.int/pmnch/topics/part_publications/201112_essential_interventions/en/index.html). Geneva, Switzerland: PMNCH.
+The Partnership for Maternal, Newborn & Child Health (2011).[A Global Review of the Key Interventions Related to Reproductive, Maternal, Newborn and Child Health (RMNCH)](http://www.who.int/pmnch/knowledge/publications/201112_essential_interventions/en/). Geneva, Switzerland: PMNCH.
 
 IHME (2010). Building Momentum: Global Progress Toward Reducing Maternal and Child Mortality. ([Chapter 1](http://www.healthmetricsandevaluation.org/publications/policy-report/building-momentum-global-progress-toward-reducing-maternal-and-child-mor))
 
