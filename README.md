@@ -265,7 +265,13 @@ Prata, N. et al. (2010). Setting priorities for safe motherhood interventions in
 
 #### In-Class Activity: How many mothers’ lives can we save?
 
-Prior to class, [install Spectrum](http://www.jhsph.edu/departments/international-health/centers-and-institutes/institute-for-international-programs/list/spectrum.html) and download the [projection file](http://www.jhsph.edu/departments/international-health/centers-and-institutes/institute-for-international-programs/list/projection.html) for your group’s assigned low-income country ([instructions](http://www.jhsph.edu/departments/international-health/centers-and-institutes/institute-for-international-programs/_documents/manuals/InstallingLiSt.pdf)). Or plan to use the version we have installed on a virtual machine. Read about the [Safe motherhood module](http://www.policyproject.com/pubs/manuals/SafeMoME.pdf) and think about what decisions you will make as a policymaker charged with eliminating preventable maternal deaths in your country.
+We will use the [Lives Saved Tool](http://www.jhsph.edu/departments/international-health/centers-and-institutes/institute-for-international-programs/list/) (LiST) to examine the potential impact of scaling up different maternal health interventions. Prior to class, please review this [Overview article](http://www.biomedcentral.com/1471-2458/13/S3/S1) by Walker et al. (2013).
+
+Also, if you have a Windows machine, please [install Spectrum](http://www.jhsph.edu/departments/international-health/centers-and-institutes/institute-for-international-programs/list/spectrum.html).
+
+If you have a Mac and the software to run a virtual windows machine (VMWare Fusion), you can download Spectrum for Windows. If you do not have a virtual Windows machine on your Mac, you can use the ones IT created for us. During class, I will give you instructions for creating a new remote session with the [Virtual Computing Lab](https://vcl.oit.duke.edu/index.php) at Duke. You will be able to use your Mac to run a virtual instance of Windows that already has Spectrum installed.
+
+The only thing Mac users need to do before class is make sure you have Remote Desktop installed. If you have Office for Mac on your computer, you probably have Remote Desktop. To check, open a Finder window and type the words "remote desktop" in your search box. You should see the program. If you don't have it for some reason, please [download](http://www.microsoft.com/en-us/download/details.aspx?id=18140).
 
 <a name="class4">Class 4: Pregnancy</a>
 ---------------------------------------
