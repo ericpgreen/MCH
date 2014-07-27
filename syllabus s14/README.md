@@ -1,14 +1,14 @@
 Introduction to Global Maternal and Child Health
 ================================================
 
-**Duke University, Fall 2014**
+**Duke University, Spring 2014**
 
 |**Course Code:**|GLHLTH 571-01|
 |:---------------|:------------|
 |**Instructor:**|Eric Green, Ph.D.|
 |**Contact:**|<eric.green@duke.edu> / 919-666-7111 (phone/sms) / @ericpgreen / Skype: epgreen|
-|**Web:**|[Facebook](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fdukemch%2F&sa=D&sntz=1&usg=AFQjCNFBYY6I1hWkfWFuTw8grkn4B286Jw) (gated) / [Google Drive](https://drive.google.com/folderview?id=0Bxn_jkXZ1lxuMlpHaG4wMEp6cFE&usp=sharing) (gated)|
-|**Classroom:**|Trent 40|
+|**Web:**|[Facebook](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fdukemch%2F&sa=D&sntz=1&usg=AFQjCNFBYY6I1hWkfWFuTw8grkn4B286Jw) (gated) / [Google Drive](https://drive.google.com/folderview?id=0Bxn_jkXZ1lxueHJud1hqX1lJMUE&usp=sharing) (gated)|
+|**Classroom:**|Trent 142|
 |**Time:**|M 15:05-17:35|
 
 COURSE DESCRIPTION
@@ -39,16 +39,14 @@ COURSE REQUIREMENTS
 Class Participation (50%)
 -------------------------
 
-Your participation grade will be determined by your attendance and contributions to class activities. You should be prepared to comment on every reading in case I decide to call on you in class. I will incorporate pop quizzes and other assignments if I feel there is a need to further incentivize students to keep up with the readings.
+I expect that all students will make regular, meaningful contributions to class discussions and team assignments. For that reason, your participation grade will be determined by your attendance and contributions to class activities. Every class I will pull a few names at random to determine who will be the first to field questions about the required readings. If you are absent on the day I pull your name, you will lose 3 participation points (excused absences excluded). If this happens twice, your grade will drop a step (e.g., from A+ to A).
 
-You are permitted 1 unexcused absence throughout the semester (classes are 2-in-1). Beyond that, each unexcused absence will result in your grade being lowered by 1-step (e.g., A+ to A). Coming late to class counts as 0.5 unexcused absences. You are responsible for [tracking missed classes](https://docs.google.com/spreadsheets/d/1lAJb4ZvvhmnSADSynZRi9ZyDRRbR05XnDH0rkdcbTOk/edit?usp=sharing); all inputs on the honor system.
+Writing Assignments (50%)
+-------------------------
 
-Officially, Duke permits students to miss work due to absence from class in four circumstances: illness; personal emergencies; religious observance; and varsity athletic participation. Please take a moment to [read](http://trinity.duke.edu/undergraduate/academic-policies/missing-work-classes) how Duke defines each circumstance. Missed work associated with any other absence is not covered by this policy and will be considered on a case-by-case basis.
+The first midterm exam (40%) will cover maternal health, and the second midterm (40%) will cover infant and child health. Both exams will be take-home. I will announce details about the first midterm exam on Feb 24, and you will have until 9am ET on Mar 4 to submit it. I’ll give you details about your second midterm on the last day of class, and it will be due at 9am ET on April 22. I will give other small writing assignments throughout the semester that will make up 20% of your "writing assignments" grade.
 
-Midterm Exams (50%)
--------------------
-
-The first midterm exam (25%) will cover maternal health, and the second midterm (25%) will cover infant and child health. The exams will be conducted in class on October 6 and November 24. The first one will be a writing exam. The second one will be an oral exam. There will be no final exam.
+I encourage you to consult the Writing Studio throughout the semester. You may seek their support for any assignment, including the midterm exams. The Writing Studio also publishes [helpful resources](http://twp.duke.edu/writing-studio/resources) that will help you to improve your drafts, such as [this collection](http://twp.duke.edu/writing-studio/resources/working-with-sources) on working with sources. Avoid plagiarism and [know when to quote (rarely) and when to paraphrase (often)](http://twp.duke.edu/uploads/media_items/quotations.original.pdf). If you do not use a citation manager, you should, and the library can help you get started.
 
 EVALUATION
 ==========
@@ -70,7 +68,7 @@ The grading scale for this course is as follows:
 Final Grade
 -----------
 
-Your final grade will be a weighted average of your participation (50%) and exam scores (50%). If you are in between grades, and if the difference is less than or equal to 0.5, your score will round up (e.g., 97.5 rounds up to 98).
+Your final grade will be a weighted average of your participation (50%) and writing assignments (50%). If you are in between grades, and if the difference is less than or equal to 0.5, your score will round up (e.g., 97.5 rounds up to 98). See this [grading template](https://docs.google.com/spreadsheet/ccc?key=0Ahn_jkXZ1lxudHdjTndGaHJPenpnMTZIQVlVTk5FUkE&usp=sharing) for more details. Penalties for late submissions will be described with each assignment.
 
 CLASS FORMAT
 ============
@@ -87,18 +85,100 @@ The general class format will be as follows. Please try to limit your breaks to 
 ||35 min discussion of assigned readings|
 ||35 min in-class activity|
 
+FREQUENTLY ASKED QUESTIONS
+==========================
+
+How can we contact you?
+-----------------------
+
+Aside from talking in person, email is my preferred mode of communication; it helps me to keep track of our conversation. A clear and concise email with "MCH" in the subject line will usually result in a response from me within 24 hours, often sooner. If you have a question or request, please put it toward the top of your message. Come across an interesting link? Feel free to send it along but forgive me if I don’t reply. Better yet, post it to our Facebook group so everyone can benefit. Finally, if you find yourself needing to write more than a few sentences, you should probably just come by for office hours so we can talk in person. I lurk on Twitter and usually have Skype open during the day. Feel free to reach me on either one. I’ll respond if I can. I also own a phone and take advantage of its calling features. Sometimes a quick call can save a lot of time.
+
+What are your office hours?
+---------------------------
+
+W 13:00-16:00 in Trent Hall 238. Other times by appointment (email me). Skype, phone, or in-person meetings are possible.
+
+Is it OK to record class sessions?
+----------------------------------
+
+You should feel free to create recordings in class that aid your learning. This does not give you permission to share or distribute these recordings. Know that for all of your classes, the speaker holds the copyright to the lecture, and you must get the speaker’s written permission to distribute this content. And you have to consider individual privacy rights of your classmates.[This video](http://www.youtube.com/watch?v=IbA7AGOTlCg) produced by Duke’s Scholarly Communications Office gives a short overview of the issues.
+
+What happens if I miss class?
+-----------------------------
+
+Officially, Duke permits students to miss work due to absence from class in four circumstances: illness; personal emergencies; religious observance; and varsity athletic participation. Please take a moment to[read](http://trinity.duke.edu/undergraduate/academic-policies/missing-work-classes) how Duke defines each circumstance. Missed work associated with any other absence is not covered by this policy and will be considered on a case-by-case basis. See [here](https://github.com/ericpgreen/MCH#class-participation-50) for the implications of unexcused absences on your participation score.
+
+May I use electronic devices during class?
+------------------------------------------
+
+You are free to use any device in the classroom that helps you learn and work (e.g., laptop, tablet, smartphone). If you try to multitask and work on non-class assignments, improve your high score on Angry Birds Candy Crush, or make a critical trade for your Fantasy Football team, your grade will likely suffer. I will notice, and recent research ([Wood et al., 2012](http://www.sciencedirect.com/science/article/pii/S0360131511002077)) suggests that you might not perform as well as you could have in the course if you were not distracted during class.
+
+Rather than banning devices and the internet from the classroom, I will leave it up to you to learn how to use these tools effectively. You will have these distractions in every work meeting once you graduate, so I see no need to enforce an outright ban. Furthermore, I think you will benefit from being able to search the web and use online collaboration tools during class.
+
+That said, I reserve the right to ask you to turn off your device or go offline if I believe that you are distracted or are somehow distracting others (the person behind you will inevitably want to see the[sneezing panda](http://youtu.be/FzRH3iTQPrk)). Students in one recent study rated other students’ laptop usage as having the most (negative) impact on their ability to concentrate and learn ([Fried, 2008](http://www.sciencedirect.com/science/article/pii/S0360131506001436)). I will know if you are wandering the internet. You might not think so, but you make a face that says "I am checking my Facebook News Feed or chatting with someone right now".
+
+No phone calls, texting, instant messaging, or emailing during class. We'll take a break every half hour, so please plan accordingly.
+
+How do I get the readings?
+--------------------------
+
+Duke students have access to all resources. Just follow the links. Items marked as "gated" are only available to students enrolled in this class (and to others via Library reserves).
+
+RESOURCES
+=========
+
+<a name="primers">Primers (not required)</a>
+--------------------------------------------
+
+### Maternal and Child Health
+
+Richardson, L. J. et al. (2013). A life course perspective on maternal and child health. In Kotch, J. B. (Ed.), Maternal and Child Health. Burlington, MA: Jones & Bartlett Learning. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuN0dBS09obmJrOTg/edit?usp=sharing) and on reserve)
+
+Singh, K. et al. (2013). Global maternal and child health. In Kotch, J. B. (Ed.), Maternal and Child Health. Burlington, MA: Jones & Bartlett Learning. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuVmxLZm1xVWFnbWs/edit?usp=sharing) and on reserve)
+
+Cassidy, T. (2006). Birth: The Surprising History of How We Are Born. New York: Atlantic Monthly Press. Chapters 2 and 3. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuMVlualVNVlVlSjQ/edit?usp=sharing) and on reserve)
+
+Tsui, A. et al. (2013). Family planning. In Kotch, J. B. (Ed.), Maternal and Child Health. Burlington, MA: Jones & Bartlett Learning. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuVlRyUnFJSHBSSEU/edit?usp=sharing) and on reserve)
+
+Muller, O. & Jahn, A. (2009). Malnutrition and maternal and child health. In Ehiri, J. H. (Ed.), Maternal and Child Health. New York: Springer. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuY2ExODNoeDVMUHM/edit?usp=sharing) and on reserve)
+
+### MCH Research
+
+Wingate, M. S. et al. (2013). Research issues in maternal and child health. In Kotch, J. B. (Ed.), Maternal and Child Health. Burlington, MA: Jones & Bartlett Learning. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuS2U3ZHVoZnRySms/edit?usp=sharing) and on reserve)
+
+Peoples-Sheps, M. D. et al. (2013). Assessment and program planning in maternal and child health. In Kotch, J. B. (Ed.), Maternal and Child Health. Burlington, MA: Jones & Bartlett Learning. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxucjdGWEJ1UG44czA/edit?usp=sharing) and on reserve)
+
+Speizer, I. S. et al. (2013). Monitoring and evaluation for global maternal and child health programs. In Kotch, J. B. (Ed.), Maternal and Child Health. Burlington, MA: Jones & Bartlett Learning. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuV1ppWEFHUTdlSG8/edit?usp=sharing) and on reserve)
+
+### Health Financing
+
+Gupta, I. et al. (2010). Demand side financing in health. How far can it address the issue of low utilization in developing countries. [World Health Report](http://www.who.int/healthsystems/topics/financing/healthreport/DSF_No27IEG.pdf).
+
+Additional Resources on MCH
+---------------------------
+
+Via Delicious:
+
+-   [Journals](https://delicious.com/epgreen/journal,mch)
+
+-   [Current issues](https://delicious.com/epgreen/mch,data)
+
+-   [Data sources](https://delicious.com/epgreen/mch,data)
+
+-   [Organizations](https://delicious.com/epgreen/orgs,mch)
+
 CLASS SCHEDULE
 ==============
 
 |Date|Class|Date|Class|
 |:---|:----|:---|:----|
-|M Aug 25|[Class 1](#class1)|M Oct 13|Fall Break|
-|M Sept 1|[Class 2](#class2)|M Oct 20|[Class 7](#class7)|
-|M Sept 8|[Class 3](#class3)|M Oct 27|[Class 8](#class8)|
-|M Sept 15|[Class 4](#class4)|M Nov 3|[Class 9](#class9)|
-|M Sept 22|[Class 5](#class5)|M Nov 10|[Class 10](#class10)|
-|M Sept 29|[Class 6](#class6)|M Nov 17|[Class 11](#class11)|
-|M Oct 6|Midterm Exam 1|M Nov 24|Midterm Exam 2|
+|M Jan 13|[Class 1](#class1)|M Mar 3|[Class 7](#class7)|
+|M Jan 20|No class|M Mar 10|No class|
+|M Jan 27|[Class 2](#class2)|M Mar 17|[Class 8](#class8)|
+|M Feb 3|[Class 3](#class3)|M Mar 24|[Class 9](#class9)|
+|M Feb 10|[Class 4](#class4)|M Mar 31|[Class 10](#class10)|
+|M Feb 17|[Class 5](#class5)|M Apr 7|[Class 11](#class11)|
+|M Feb 24|[Class 6](#class6)|M Apr 14|[Class 12](#class12)|
 
 <a name="class1">Class 1: Introduction</a>
 ------------------------------------------
@@ -298,10 +378,17 @@ Dean et al. (2013). Setting Research Priorities for Preconception Care in Low- a
 
 [Reducing Fertility in Bangladesh](http://www.cgdev.org/doc/millions/MS_case_13.pdf). Levine, R. (2007). Case Studies in Global Health: Millions Saved. Washington: Center for Global Development.
 
-<a name="class7">Class 7: Fetal and Neonatal Mortality</a>
+<a name="class7">Class 7: Book Club</a>
+---------------------------------------
+
+#### Assigned Readings
+
+Holloway, K. (2007). *Monique and the Mango Rains: two years with a midwife in Mali*. Long Grove, Il: Waveland Press. ([available as an ebook](http://getitatduke.library.duke.edu/?ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info:sid/summon.serialssolutions.com&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.genre=book&rft.title=Monique+and+the+Mango+Rains%3A+Two+Years+With+a+Midwife+in+Mali&rft.date=2007-01-01&rft.pub=Waveland+Press%2C+Inc&paramdict=en-US))
+
+<a name="class8">Class 8: Fetal and Neonatal Mortality</a>
 ----------------------------------------------------------
 
-### Session 7a: Data and measurement
+### Session 8a: Data and measurement
 
 *In this session we'll look at the data on preterm births, stillbirths, and neonatal mortality. As you read, take note of how each is defined and measured. As we observed in the section on maternal mortality, solid numbers are hard to come by in many countries—especially in the case of stillbirths—so we rely on modeling techniques to estimate. We only have time to scratch the surface, so interested readers might want to check out the Lancet Series on [stillbirths](http://www.thelancet.com/series/stillbirth), [neonatal survival](http://www.thelancet.com/series/neonatal-survival), and [preterm birth](http://www.thelancet.com/series/preterm-birth) to learn more. For older papers, I recommend searching for the titles in Google Scholar and following the "Cited by" links to find more recent work that builds on articles in the collections.*
 
@@ -321,7 +408,7 @@ How does Jane's experience compare to modern times? We'll fire up R again to loo
 
 Lepore, J. (2013, July 8). The prodigal daughter. The New Yorker. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuQXNLWDdwc1hUWXc/edit?usp=sharing))
 
-### Session 7b: Interventions
+### Session 8b: Interventions
 
 *With a good foundation in the scope of the problem, we can shift our focus to potential solutions and implementation challenges. What is "Kangaroo mother care", and what is the evidence for its efficacy? What does syphilis detection and treatment have to do with stillbirths? How many deaths could be averted by scaling up proven interventions to full coverage?*
 
@@ -337,10 +424,10 @@ Pattinson, R. et al. (2011). Stillbirths: how can health systems deliver for mot
 
 Refer to the resources listed in our first <a href="#ir">innovation review</a> and identify one promising intervention for saving newborn lives.
 
-<a name="class8">Class 8: Child Mortality</a>
+<a name="class9">Class 9: Child Mortality</a>
 ---------------------------------------------
 
-### Session 8a: Data and measurement
+### Session 9a: Data and measurement
 
 *We've witnessed a dramatic reduction in the absolute and relative numbers of under-5 deaths in the last decade. Why? Where? How has our understanding of the causes of child mortality changed over time?*
 
@@ -352,9 +439,31 @@ Rajaratnam et al. (2010). Neonatal, postneonatal, childhood, and under-5 mortali
 
 Ronsmans, C. et al. (2010). Effect of parent's death on child survival in rural Bangladesh: a cohort study. [The Lancet, 375(9730), 2024-2031](http://www.ncbi.nlm.nih.gov/pubmed/20569842).
 
-#### In-Class Activity:
+#### In-Class Activity: The Oregon Trail
 
-### Session 8b: Interventions
+In 1989 I spent a summer at computer camp playing [Oregon Trail](http://www.oregontrail.com/hmh/site/oregontrail/) nonstop on the Apple IIGS. The game takes place in the mid-1800s during the Westward Expansion as nearly a half a million people in the U.S. made the [arduious 2,000 mile trip](http://en.wikipedia.org/wiki/Oregon_Trail) from east to west by wagon wheel, often falling victim to cholera, hypothermia, and botched attempts to ford the river.
+
+Now it's your turn to try your hand at the game and investigate child injuries and mortality at the same time. Before class, visit this [page](http://www.virtualapple.org/oregontraildisk.html) using the [Chrome](https://www.google.com/intl/en/chrome/browser/) browser and install the plugin that will allow you to run the Apple II emulator. And get your 1989 playlist ready. Paula Abdul's "Straight Up" and Bobby Brown's "My Prerogative" are just some of the hits that topped the charts in 1989. Please, no Debbie Gibson.
+
+In class, we'll assign students to different player profiles to see if money buys health:
+
+1.  A banker from Boston
+2.  A carpenter from Ohio
+3.  A farmer from Illinois
+
+Name your players as follows:
+
+1.  Bert (adult male)
+2.  Bertha (adult female)
+3.  Jimmy (4 year old boy)
+4.  Laura (2 year old girl)
+5.  Ruth (1 month old girl)
+
+We'll also assign departure months. Leave too early and your oxen might starve because the grass is not ready. Leave too late and you won't make it before winter.
+
+Spend your money as you see fit, but keep track of your itemized bill. Once you set off, you will get regular status reports. Record the date, variables such as health, and your game decisions. Keep track of who dies, when, and from what cause. Track injuries as well. A spreadsheet will be provided.
+
+### Session 9b: Interventions
 
 *What "works", and how many under-5 lives could be saved if proven interventions reached those in need? Get the feeling we should just keep repeating "Implementation. Implementation. Implementation."?*
 
@@ -368,10 +477,10 @@ Bhutta, Z. A., & Black, R. E. (2013). Global Maternal, Newborn, and Child Health
 
 We will return to LiST and estimate the number of deaths that can be averted by scaling up proven interventions. Details forthcoming.
 
-<a name="class9">Class 9: Immunizations and Nutrition</a>
----------------------------------------------------------
+<a name="class10">Class 10: Immunizations and Nutrition</a>
+-----------------------------------------------------------
 
-### Session 9a: Immunizations
+### Session 10a: Immunizations
 
 *What are the recommended routine immunizations, and what does coverage look like globally? How do we assess coverage? How important is public trust, and what happens when trust is [broken](http://www.jhsph.edu/news/news-releases/2013/klag-CIA-vaccination-cover-pakistan.html)?*
 
@@ -393,7 +502,7 @@ Razum, O., & Müller, O. (2013). Polio eradication: where are we now?. [Lancet,3
 
 Emerson, C. I., & Singer, P. A. (2010). Is there an ethical obligation to complete polio eradication?. [The Lancet, 375(9723), 1340-1341](http://www.ncbi.nlm.nih.gov/pubmed/20405537).
 
-### Session 9b: Nutrition
+### Session 10b: Nutrition
 
 *In this session we'll review the latest data on undernutrition and obesity among children living in poor countries. We'll also examine the evidence-base for nutrition interventions and explore the potential for "nutrition-sensitive" interventions.*
 
@@ -409,10 +518,10 @@ Ruel, M. T., & Alderman, H. (2013). Nutrition-sensitive interventions and progra
 
 Phillips, E. & Rhatigan, J. (2011). Treating malnutrition in Haiti with Ready-to-Use Therapeutic Foods. Boston: Harvard Medical School. [(gated)](https://drive.google.com/file/d/0Bxn_jkXZ1lxuV1FldFh0cU5MZFk/edit?usp=sharing)
 
-<a name="class10">Class 10: Putting MCH in Context</a>
+<a name="class11">Class 11: Putting MCH in Context</a>
 ------------------------------------------------------
 
-### Session 10a: Environmental issues, childhood injury, and maltreatment
+### Session 11a: Environmental issues, childhood injury, and maltreatment
 
 *In this session we'll explore some of the dangers children face at home and in their communities: environmental toxins, accidents, and maltreatment.*
 
@@ -430,7 +539,7 @@ Design a study to assess the impact of a child maltreatment prevention intervent
 
 Skeen, S., & Tomlinson, M. (2013). A public health approach to preventing child abuse in low-and middle-income countries: A call for action. [International Journal of Psychology, 48(2), 108-116](http://www.ncbi.nlm.nih.gov/pubmed/23597010).
 
-### Session 10b: Violent conflict
+### Session 11b: Violent conflict
 
 *In this session we'll explore the impact of war and conflict on health systems and maternal and child health. We'll read and discuss papers that describe the impact of two recent conflicts on children: Iraq and Darfur.*
 
@@ -446,7 +555,7 @@ Degomme, O., & Guha-Sapir, D. (2010). Patterns of mortality rates in Darfur conf
 
 You and your team have been invited to write a 300-500 word comment for a prestegious global health journal on the threat posed by the crisis in Syria on infant and child health in the country. What is your message for global health practitioners and policymakers?
 
-<a name="class11">Class 11: Mental Health and Development</a>
+<a name="class12">Class 12: Mental Health and Development</a>
 -------------------------------------------------------------
 
 ### Session 11a: Maternal mental health
@@ -463,7 +572,7 @@ Rahman, A., Malik, A., Sikander, S., Roberts, C., & Creed, F. (2008). Cognitive 
 
 How could mobile health (mHealth) tools be used to promote scale up of the CHW intervention model in rural Pakistan? Create a 3-slide pitch. Assume your audience knows the basics about the intervention and mHealth tools.
 
-### Session 11b: Child development
+### Session 12b: Child development
 
 *The first 1,000 days—from conception until a child’s second birthday—lay the foundation for a healthy and productive life. Newborns who survive their first month of life are 30 days into the most rapid period of human development—early childhood. Children are most likely to thrive in their early years—and into adulthood—if they are born healthy and into a nurturing environment. Prenatal insults, birth-related complications, or early environments that cause infants to be malnourished, sick, or deprived of stimulation, can negatively impact brain development and future learning ability. Compared to their healthy peers, children with cognitive and emotional deficits spend less time in school and earn 20 percent less money in their adult years, which has implications for the individual, her family, and society. In this session we'll discuss the importance of early childhood development and how to help all children reach their potential.*
 
@@ -481,79 +590,12 @@ President Barack Obama, [State of the Union](http://www.whitehouse.gov/the-press
 
 > In states that make it a priority to educate our youngest children...studies show students grow up more likely to read and do math at grade level, graduate high school, hold a job, form more stable families of their own. We know this works. So let’s do what works and make sure none of our children start the race of life already behind.
 
-RESOURCES
-=========
+ASSIGNMENTS
+===========
 
-<a name="primers">Primers (not required)</a>
---------------------------------------------
+|Assignment|Date/Time|
+|:---------|:--------|
+|Maternal health midterm|Mar 4, 9am ET|
+|Child health midterm|Apr 22, 9am ET|
 
-### Maternal and Child Health
 
-Richardson, L. J. et al. (2013). A life course perspective on maternal and child health. In Kotch, J. B. (Ed.), Maternal and Child Health. Burlington, MA: Jones & Bartlett Learning. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuN0dBS09obmJrOTg/edit?usp=sharing) and on reserve)
-
-Singh, K. et al. (2013). Global maternal and child health. In Kotch, J. B. (Ed.), Maternal and Child Health. Burlington, MA: Jones & Bartlett Learning. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuVmxLZm1xVWFnbWs/edit?usp=sharing) and on reserve)
-
-Cassidy, T. (2006). Birth: The Surprising History of How We Are Born. New York: Atlantic Monthly Press. Chapters 2 and 3. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuMVlualVNVlVlSjQ/edit?usp=sharing) and on reserve)
-
-Tsui, A. et al. (2013). Family planning. In Kotch, J. B. (Ed.), Maternal and Child Health. Burlington, MA: Jones & Bartlett Learning. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuVlRyUnFJSHBSSEU/edit?usp=sharing) and on reserve)
-
-Muller, O. & Jahn, A. (2009). Malnutrition and maternal and child health. In Ehiri, J. H. (Ed.), Maternal and Child Health. New York: Springer. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuY2ExODNoeDVMUHM/edit?usp=sharing) and on reserve)
-
-### MCH Research
-
-Wingate, M. S. et al. (2013). Research issues in maternal and child health. In Kotch, J. B. (Ed.), Maternal and Child Health. Burlington, MA: Jones & Bartlett Learning. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuS2U3ZHVoZnRySms/edit?usp=sharing) and on reserve)
-
-Peoples-Sheps, M. D. et al. (2013). Assessment and program planning in maternal and child health. In Kotch, J. B. (Ed.), Maternal and Child Health. Burlington, MA: Jones & Bartlett Learning. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxucjdGWEJ1UG44czA/edit?usp=sharing) and on reserve)
-
-Speizer, I. S. et al. (2013). Monitoring and evaluation for global maternal and child health programs. In Kotch, J. B. (Ed.), Maternal and Child Health. Burlington, MA: Jones & Bartlett Learning. ([gated](https://drive.google.com/file/d/0Bxn_jkXZ1lxuV1ppWEFHUTdlSG8/edit?usp=sharing) and on reserve)
-
-### Health Financing
-
-Gupta, I. et al. (2010). Demand side financing in health. How far can it address the issue of low utilization in developing countries. [World Health Report](http://www.who.int/healthsystems/topics/financing/healthreport/DSF_No27IEG.pdf).
-
-Additional Resources on MCH
----------------------------
-
-Via Delicious:
-
--   [Journals](https://delicious.com/epgreen/journal,mch)
-
--   [Current issues](https://delicious.com/epgreen/mch,data)
-
--   [Data sources](https://delicious.com/epgreen/mch,data)
-
--   [Organizations](https://delicious.com/epgreen/orgs,mch)
-
-FREQUENTLY ASKED QUESTIONS
-==========================
-
-How can we contact you?
------------------------
-
-Posting to Facebook is almost always the best option for asking a class-related question. I'm likely to reply quickly because everyone benefits from the post. If you need a quick answer to something that does not impact others, call or text. Otherwise, send an email.
-
-What are your office hours?
----------------------------
-
-Office hours vary by week. It's best just to let me know you want to meet and we will find a time that works. Skype is always an option if we can't meet in person.
-
-Is it OK to record class sessions?
-----------------------------------
-
-You should feel free to create recordings in class that aid your learning. This does not give you permission to share or distribute these recordings. Know that for all of your classes, the speaker holds the copyright to the lecture, and you must get the speaker’s written permission to distribute this content. And you have to consider individual privacy rights of your classmates.[This video](http://www.youtube.com/watch?v=IbA7AGOTlCg) produced by Duke’s Scholarly Communications Office gives a short overview of the issues.
-
-May I use electronic devices during class?
-------------------------------------------
-
-You are free to use any device in the classroom that helps you learn and work (e.g., laptop, tablet, smartphone). If you try to multitask and work on non-class assignments, improve your high score on Angry Birds Candy Crush, or make a critical trade for your Fantasy Football team, your grade will likely suffer. I will notice, and recent research ([Wood et al., 2012](http://www.sciencedirect.com/science/article/pii/S0360131511002077)) suggests that you might not perform as well as you could have in the course if you were not distracted during class.
-
-Rather than banning devices and the internet from the classroom, I will leave it up to you to learn how to use these tools effectively. You will have these distractions in every work meeting once you graduate, so I see no need to enforce an outright ban. Furthermore, I think you will benefit from being able to search the web and use online collaboration tools during class.
-
-That said, I reserve the right to ask you to turn off your device or go offline if I believe that you are distracted or are somehow distracting others (the person behind you will inevitably want to see the[sneezing panda](http://youtu.be/FzRH3iTQPrk)). Students in one recent study rated other students’ laptop usage as having the most (negative) impact on their ability to concentrate and learn ([Fried, 2008](http://www.sciencedirect.com/science/article/pii/S0360131506001436)). I will know if you are wandering the internet. You might not think so, but you make a face that says "I am checking my Facebook News Feed or chatting with someone right now".
-
-No phone calls, texting, instant messaging, or emailing during class. We'll take a break every half hour, so please plan accordingly.
-
-How do I get the readings?
---------------------------
-
-Duke students have access to all resources. Just follow the links. Items marked as "gated" are only available to students enrolled in this class (and to others via Library reserves).

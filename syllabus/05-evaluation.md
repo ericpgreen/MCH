@@ -1,6 +1,6 @@
 # EVALUATION
 
-Students should abide by the[ Duke Community Standard](http://studentaffairs.duke.edu/conduct/about-us/duke-community-standard) at all times. If a questionable circumstance arises, do not hesitate to seek my guidance (before is always better than after).
+Students should abide by the [Duke Community Standard](http://studentaffairs.duke.edu/conduct/about-us/duke-community-standard) at all times. If a questionable circumstance arises, do not hesitate to seek my guidance (before is always better than after).
 
 ## Grading Scale
 
@@ -15,4 +15,4 @@ F: 59 and below | | |
 
 ## Final Grade
 
-Your final grade will be a weighted average of your participation (50%) and writing assignments (50%). If you are in between grades, and if the difference is less than or equal to 0.5, your score will round up (e.g., 97.5 rounds up to 98). See this [grading template](https://docs.google.com/spreadsheet/ccc?key=0Ahn_jkXZ1lxudHdjTndGaHJPenpnMTZIQVlVTk5FUkE&usp=sharing) for more details. Penalties for late submissions will be described with each assignment.
+Your final grade will be a weighted average of your participation (50%) and exam scores (50%). If you are in between grades, and if the difference is less than or equal to 0.5, your score will round up (e.g., 97.5 rounds up to 98).
