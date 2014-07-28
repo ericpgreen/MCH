@@ -53,7 +53,7 @@ The first midterm exam (25%) will cover maternal health, and the second midterm 
 EVALUATION
 ==========
 
-Students should abide by the[Duke Community Standard](http://studentaffairs.duke.edu/conduct/about-us/duke-community-standard) at all times. If a questionable circumstance arises, do not hesitate to seek my guidance (before is always better than after).
+Students should abide by the [Duke Community Standard](http://studentaffairs.duke.edu/conduct/about-us/duke-community-standard) at all times. If a questionable circumstance arises, do not hesitate to seek my guidance (before is always better than after).
 
 Grading Scale
 -------------
@@ -409,10 +409,45 @@ Ruel, M. T., & Alderman, H. (2013). Nutrition-sensitive interventions and progra
 
 Phillips, E. & Rhatigan, J. (2011). Treating malnutrition in Haiti with Ready-to-Use Therapeutic Foods. Boston: Harvard Medical School. [(gated)](https://drive.google.com/file/d/0Bxn_jkXZ1lxuV1FldFh0cU5MZFk/edit?usp=sharing)
 
-<a name="class10">Class 10: Putting MCH in Context</a>
+<a name="class10">Class 10: Mental Health and Development</a>
+-------------------------------------------------------------
+
+### Session 10a: Maternal mental health
+
+*A growing area of research is maternal mental health and the impact of a mother’s ill health on fetal, infant, and child development. Pregnant women and mothers with poor mental health are less likely to care for their own needs and the needs of their infants; are more likely to forgo antenatal and postnatal care, deviate from health regimens, and have poor physical health outcomes; and are at elevated risk for alcohol and substance abuse. Children of depressed mothers are more likely to be stunted and underweight, sick, developmentally delayed, poorly attached, and exhibit cognitive and emotional delays. In this session, we'll explore the problem of perinatal depression and evidence of treatment efficacy in low-resource settings.*
+
+#### Assigned Readings
+
+Rahman, A. et al. (2013). Interventions for common perinatal mental disorders in women in low-and middle-income countries: a systematic review and meta-analysis. [Bulletin of the World Health Organization,](http://www.ncbi.nlm.nih.gov/pubmed/23940407)[91(8):593-601](http://www.ncbi.nlm.nih.gov/pubmed/23940407).
+
+Rahman, A., Malik, A., Sikander, S., Roberts, C., & Creed, F. (2008). Cognitive behaviour therapy-based intervention by community health workers for mothers with depression and their infants in rural Pakistan: a cluster-randomised controlled trial. [The Lancet, 372(9642), 902-909.](http://www.ncbi.nlm.nih.gov/pubmed/18790313)
+
+#### In-Class Activity: Scale up
+
+How could mobile health (mHealth) tools be used to promote scale up of the CHW intervention model in rural Pakistan? Create a 3-slide pitch. Assume your audience knows the basics about the intervention and mHealth tools.
+
+### Session 10b: Child development
+
+*The first 1,000 days—from conception until a child’s second birthday—lay the foundation for a healthy and productive life. Newborns who survive their first month of life are 30 days into the most rapid period of human development—early childhood. Children are most likely to thrive in their early years—and into adulthood—if they are born healthy and into a nurturing environment. Prenatal insults, birth-related complications, or early environments that cause infants to be malnourished, sick, or deprived of stimulation, can negatively impact brain development and future learning ability. Compared to their healthy peers, children with cognitive and emotional deficits spend less time in school and earn 20 percent less money in their adult years, which has implications for the individual, her family, and society. In this session we'll discuss the importance of early childhood development and how to help all children reach their potential.*
+
+#### Assigned Readings
+
+Grantham-McGregor, S. et al. (2007). Developmental potential in the first 5 years for children in developing countries. [The Lancet, 369(9555), 60-70](http://www.ncbi.nlm.nih.gov/pubmed/17208643).
+
+Walker, S. P. et al. (2007). Child development: risk factors for adverse outcomes in developing countries. [The Lancet, 369(9556), 145-157](http://www.ncbi.nlm.nih.gov/pubmed/17223478).
+
+Engle, P. L. et al. (2007). Strategies to avoid the loss of developmental potential in more than 200 million children in the developing world. [The Lancet, 369(9557), 229-242](http://www.ncbi.nlm.nih.gov/pubmed/17240290).
+
+#### In-Class Activity: Fact or fiction?
+
+President Barack Obama, [State of the Union](http://www.whitehouse.gov/the-press-office/2013/02/13/fact-sheet-president-obama-s-plan-early-education-all-americans), February 12, 2013
+
+> In states that make it a priority to educate our youngest children...studies show students grow up more likely to read and do math at grade level, graduate high school, hold a job, form more stable families of their own. We know this works. So let’s do what works and make sure none of our children start the race of life already behind.
+
+<a name="class11">Class 11: Putting MCH in Context</a>
 ------------------------------------------------------
 
-### Session 10a: Environmental issues, childhood injury, and maltreatment
+### Session 11a: Environmental issues, childhood injury, and maltreatment
 
 *In this session we'll explore some of the dangers children face at home and in their communities: environmental toxins, accidents, and maltreatment.*
 
@@ -430,7 +465,7 @@ Design a study to assess the impact of a child maltreatment prevention intervent
 
 Skeen, S., & Tomlinson, M. (2013). A public health approach to preventing child abuse in low-and middle-income countries: A call for action. [International Journal of Psychology, 48(2), 108-116](http://www.ncbi.nlm.nih.gov/pubmed/23597010).
 
-### Session 10b: Violent conflict
+### Session 11b: Violent conflict
 
 *In this session we'll explore the impact of war and conflict on health systems and maternal and child health. We'll read and discuss papers that describe the impact of two recent conflicts on children: Iraq and Darfur.*
 
@@ -445,41 +480,6 @@ Degomme, O., & Guha-Sapir, D. (2010). Patterns of mortality rates in Darfur conf
 #### In-Class Activity: Commentary
 
 You and your team have been invited to write a 300-500 word comment for a prestegious global health journal on the threat posed by the crisis in Syria on infant and child health in the country. What is your message for global health practitioners and policymakers?
-
-<a name="class11">Class 11: Mental Health and Development</a>
--------------------------------------------------------------
-
-### Session 11a: Maternal mental health
-
-*A growing area of research is maternal mental health and the impact of a mother’s ill health on fetal, infant, and child development. Pregnant women and mothers with poor mental health are less likely to care for their own needs and the needs of their infants; are more likely to forgo antenatal and postnatal care, deviate from health regimens, and have poor physical health outcomes; and are at elevated risk for alcohol and substance abuse. Children of depressed mothers are more likely to be stunted and underweight, sick, developmentally delayed, poorly attached, and exhibit cognitive and emotional delays. In this session, we'll explore the problem of perinatal depression and evidence of treatment efficacy in low-resource settings.*
-
-#### Assigned Readings
-
-Rahman, A. et al. (2013). Interventions for common perinatal mental disorders in women in low-and middle-income countries: a systematic review and meta-analysis. [Bulletin of the World Health Organization,](http://www.ncbi.nlm.nih.gov/pubmed/23940407)[91(8):593-601](http://www.ncbi.nlm.nih.gov/pubmed/23940407).
-
-Rahman, A., Malik, A., Sikander, S., Roberts, C., & Creed, F. (2008). Cognitive behaviour therapy-based intervention by community health workers for mothers with depression and their infants in rural Pakistan: a cluster-randomised controlled trial. [The Lancet, 372(9642), 902-909.](http://www.ncbi.nlm.nih.gov/pubmed/18790313)
-
-#### In-Class Activity: Scale up
-
-How could mobile health (mHealth) tools be used to promote scale up of the CHW intervention model in rural Pakistan? Create a 3-slide pitch. Assume your audience knows the basics about the intervention and mHealth tools.
-
-### Session 11b: Child development
-
-*The first 1,000 days—from conception until a child’s second birthday—lay the foundation for a healthy and productive life. Newborns who survive their first month of life are 30 days into the most rapid period of human development—early childhood. Children are most likely to thrive in their early years—and into adulthood—if they are born healthy and into a nurturing environment. Prenatal insults, birth-related complications, or early environments that cause infants to be malnourished, sick, or deprived of stimulation, can negatively impact brain development and future learning ability. Compared to their healthy peers, children with cognitive and emotional deficits spend less time in school and earn 20 percent less money in their adult years, which has implications for the individual, her family, and society. In this session we'll discuss the importance of early childhood development and how to help all children reach their potential.*
-
-#### Assigned Readings
-
-Grantham-McGregor, S. et al. (2007). Developmental potential in the first 5 years for children in developing countries. [The Lancet, 369(9555), 60-70](http://www.ncbi.nlm.nih.gov/pubmed/17208643).
-
-Walker, S. P. et al. (2007). Child development: risk factors for adverse outcomes in developing countries. [The Lancet, 369(9556), 145-157](http://www.ncbi.nlm.nih.gov/pubmed/17223478).
-
-Engle, P. L. et al. (2007). Strategies to avoid the loss of developmental potential in more than 200 million children in the developing world. [The Lancet, 369(9557), 229-242](http://www.ncbi.nlm.nih.gov/pubmed/17240290).
-
-#### In-Class Activity: Fact or fiction?
-
-President Barack Obama, [State of the Union](http://www.whitehouse.gov/the-press-office/2013/02/13/fact-sheet-president-obama-s-plan-early-education-all-americans), February 12, 2013
-
-> In states that make it a priority to educate our youngest children...studies show students grow up more likely to read and do math at grade level, graduate high school, hold a job, form more stable families of their own. We know this works. So let’s do what works and make sure none of our children start the race of life already behind.
 
 RESOURCES
 =========
